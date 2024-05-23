@@ -1,0 +1,764 @@
+bfs_number,rooms,area,price,postalcode,address,town,description_raw,bfs_name,pop,pop_dens,frg_pct,emp,tax_income,luxurious,area_cat,price_per_m2
+112,3.5,122,3180,8633,Sunnenbergstrasse 15,Wolfhausen,"«Grosse Galerie, Terrasse mit Pergola, Berg- und Seesicht»",Bubikon,7344,632.5581395349,11.4106753813,3617.0,82162,0,100 - 500,26.07
+112,4.0,87,1690,8633,Blumenbergstrasse 7,Wolfhausen,«Sehr grosse 4 Zimmer Wohnung»,Bubikon,7344,632.5581395349,11.4106753813,3617.0,82162,0,50 - 99,19.43
+261,2.5,78,3760,8002,Lavaterstr. 63,Zürich,«Wunderschöne Wohnung im Enge-Quartier»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,48.21
+261,5.5,195,6900,8002,Parkring 59,Zürich,«Wohnanlage Im Parkring - Exklusive Wohnung zu vermieten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,35.38
+261,2.5,59,2920,8044,Flobotstrasse 2,Zürich,«Erstvermietung am Zürichberg: Charmante 2.5-Zimmerwohnung im 2. OG»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,49.49
+261,3.0,75,3003,8044,Hinterbergstrasse 57,Zürich,«Erstvermietung nach Total-Sanierung: 3-Zimmerwohnung am ruhigen und sonnigen Zürichberg!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,40.04
+261,2.5,58,1780,8050,Nansenstrasse 7,Zürich,«Befristet bis 30.11.2023 - Zentrale Wohnung in Oerlikon»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,30.69
+261,3.0,52,1600,8057,Wehntalerstrasse 223,Zürich,«Gemütliche Wohnung in Stadtnähe»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,30.77
+261,1.0,15,1240,8050,Baumackerstrasse 47,Zürich,«Wohnen in Mitten von Zürich-Oerlikon»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,82.67
+261,1.5,35,1870,8048,Zwischenbächen 139,Zürich,«MÖBLIERTES WOHNEN IN ZENTRUM»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,53.43
+261,2.5,75,3240,8004,Hallwylstrasse 84,Zürich,"«Sonnige Wiedikon 2.5 Zim., +Lag.,1 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,43.2
+261,2.0,80,2790,8005,Pfingstweidstrasse 104 E,Zürich,«Lassen Sie sich von dieser modernen Attikawohnung überzeugen!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,34.88
+261,3.5,76,1990,8051,Altwiesenstrasse 346,Zürich,«Wohnen im idyllischen Wohnquartier!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,26.18
+261,1.5,25,2100,8004,Badenerstrasse 250,Zürich,«Attraktiv - möbliert - Neubau beim Lochergut»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,84.0
+261,2.5,48,3190,8004,Schöntalstrasse 27,Zürich,"«Geschmackvolles Werd 2.5 Zim.+Lager, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,66.46
+261,1.5,32,2100,8049,Am Wasser 161,Zürich,«MÖBLIERTE WOHNUNG DIREKT AN DER LIMMAT»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,65.62
+261,4.5,128,6630,8044,Freudenbergstrasse 94,Zürich,"«Elite Fluntern 4.5 Zim.+W/T, +Lag.,7 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,51.8
+261,2.5,79,3500,8002,Lavaterstr. 63,Zürich,«Grosszügige Single Wohnung an schöner Lage in Zürich Enge»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,44.3
+261,2.5,82,2875,8048,Meientalstrasse 65,Zürich,«LETZTE CHANCE! Neubauprojekt in Wohneigentumsstandard sucht DICH!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,35.06
+261,5.5,195,4200,8050,Affolternstrasse 154,Zürich,"«Wunderschöne, edle 5.5-Zimmer Attika-Whng in Zürich-Nord»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,21.54
+261,1.0,45,1216,8038,Seestrasse 361,Zürich,«Grosszügige 1 Zimmerwohnung im Herzen von Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,27.02
+261,2.5,73,2378,8048,Hohlstr. 509,Zürich,"«Besichtigung: Freitag, 2. September 2022, 12.30-13.15 Uhr»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,32.58
+261,2.5,65,2470,8048,Feldblumenstrasse 10,Zürich,"«2,5 Zimmerwohnung mit Balkon (Erstvermietung)»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,38.0
+261,3.5,68,2680,8047,Letzigraben 171,Zürich,"«3 ½ Zimmer-Wohnung, 8047 Zürich»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,39.41
+261,2.5,84,3540,8044,Fritz Fleiner-Weg 11,Zürich,«grosszügige Singel Wohnung an wunderschönen Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,42.14
+261,3.5,69,4600,8037,Uhlandstrasse 6,Zürich,"«Hip Wipkingen 3.5 Zim.+W/T, +Lag.,2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,66.67
+261,1.5,29,1450,8057,Frohburgstrasse 303,Zürich,«1.5 bedroom apartment in quiet neighbourhood near tram station»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,50.0
+261,1.5,40,1525,8048,Hätzlergasse 28,Zürich,«Grosszügige Wohnung mit Flair an idyllischer Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,38.12
+261,3.5,82,3550,8032,Carmenstrasse 16,Zürich,«Idyllisches wohnen in der Stadt Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,43.29
+261,4.0,120,3280,8044,Forsterstrasse,Zürich,«Möbilierte 4 Zimmerwohnung am Zürichberg»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,27.33
+261,3.0,79,2760,8053,Im Trichtisal 7,Zürich,«Natur- und Zentrumsnah zugleich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,34.94
+261,3.5,110,5170,8045,Staffelstrasse 13,Zürich,"«Sonnige Wiedikon 3.5 Zim.+W/T, +Lag.,2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,47.0
+261,2.5,282,7500,8005,Giessereistrasse 12,Zürich,«WOHNTRAUM IM KREIS 5»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,26.6
+261,2.5,57,3540,8004,Rebgasse 8,Zürich,"«Modernes Langstraße 2.5 Zim. + Lager, 5 Min. zur Tram, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,62.11
+261,3.5,72,2190,8047,Fellenbergstrasse 319,Zürich,«Gemütliche Wohnung an Toplage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,30.42
+261,2.5,52,2840,8057,Bucheggstrasse 157,Zürich,"«Schickes Unterstraße 2.5 Zim.+Lag., 2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,54.62
+261,2.0,47,1414,8048,Grimselstrasse 19,Zürich,«Wohnen an zentraler und ruhiger Lage in Altstetten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,30.09
+261,1.5,23,1552,8057,Viktoriastrasse 29,Zürich,«City Pop - Ein Appartement wo man sich jederzeit wie zu Hause fühlt!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,67.48
+261,3.0,74,2422,8044,Gladbachstr. 120,Zürich,«gemütliche Wohnung in ZH-Fluntern»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,32.73
+261,4.5,126,3380,8052,Schaffhauserstrasse 456,Zürich,«Wohnung in Seebach sucht Sie!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,26.83
+261,2.5,58,2900,8004,Badenerstrasse  250,Zürich,«Moderner Wohntraum verteilt auf 2 Etagen - KREIS 4»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,50.0
+261,2.5,92,4410,8005,Hardturmstr. 5,Zürich,"«Willkommen in den ""Escherterrassen"" - Wohnen im pulsierenden Kreis 5!»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,47.93
+261,3.5,92,2010,8052,Glatttalstrasse 106,Zürich,«Wohnen an zentraler Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,21.85
+261,3.5,82,3370,8047,Langgrütstrasse 104,Zürich,«ERSTBEZUG Neubau Letzigraben in 8047 Zürich Albisrieden»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,41.1
+261,1.0,47,1170,8052,Schaffhauserstrasse 473,Zürich,«Grosszügiges Dachstudio an bester Lage befristet zu vermieten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,24.89
+261,4.0,70,2950,8037,Nordstrasse 135,Zürich,«Zürich Wipkingen: Charmante Wohnung in Zweifamilienhaus»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,42.14
+261,3.5,80,2100,8046,Im Isengrind 11,Zürich,"«Grosse, möbl. 3.5-Zimmerwohnung mit enormer Weitsicht»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,26.25
+261,2.5,60,2500,8048,Herrligweg 9,Zürich,«Wohnung im Grünen und doch zentral!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,41.67
+261,3.5,111,5620,8044,Flobotstrasse 2,Zürich,«Erstvermietung am Zürichberg: Exklusive 3.5-Zimmer-Dachwohnung mit Terrasse»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,50.63
+261,2.5,65,2300,8041,Maneggplatz 16,Zürich,"«In der City Zuhause, im Grünen Daheim - Grosszügige Wohnung»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,35.38
+261,2.5,98,2995,8044,Hinterbergstrasse 106,Zürich,«Exklusive Wohnung direkt am Zürichberg sucht neuen Mieter!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,30.56
+261,2.5,94,4585,8008,Mühlebachstr. 28,Zürich,«grosszügige Wohnung im Zürich Seefeld und direkter Lage am Zürich Stadelhofen»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,48.78
+261,1.0,44,1525,8038,Widmerstrasse 19,Zürich,«Ihre Wohnung mit gemütlichem Sitzplatz»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,34.66
+261,2.5,62,2220,8038,Albisstrasse 118,Zürich,«Hochmoderner Standard trifft auf Geschmack»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,35.81
+261,2.5,58,3100,8004,Badenerstrasse 250,Zürich,«Moderner Wohntraum verteilt auf 2 Etagen - KREIS 4»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,53.45
+261,3.5,89,2090,8051,Im Altried 1f,Zürich,«Zentral wohnen - in einem schönen Biotop mit viel Grünfläche»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,23.48
+261,2.5,60,2900,8002,Jenatschstrasse 5,Zürich,«Sanierte Stadtwohnung nähe Enge»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,48.33
+261,3.5,72,3300,8050,Dörflistrasse  112,Zürich,"«3.5 Zr im Oerlikon, z.F z. Bahnhof, voll möbliert, flex. Sofortbuchung»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,45.83
+261,3.0,68,2500,8045,Austrasse 27,Zürich,«Grosszüge 3-Zimmerwohnung in Zürich-Wiedikon»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,36.76
+261,2.5,121,4022,8005,Pfingstweidstrasse 98,Zürich,«Living it UP! exklusives Wohnen im 22.OG»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,33.24
+261,3.0,67,2295,8038,Albisstrasse 170,Zürich,"«""Charmante 3-Zimmer-Wohnung zu vermieten""»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,34.25
+261,3.5,76,4890,8037,Uhlandstrasse 6,Zürich,"«Luxus Wipkingen 3.5 Zim.+W/T, +Lag.,2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,64.34
+261,4.5,81,3990,8008,Seefeldstr. 168,Zürich,«Willkommen im Herzen von Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,49.26
+261,2.0,43,1265,8051,Grosswiesenstrasse 22,Zürich,"«Nähe Einkaufsmöglichkeiten und öffentlichen Verkehr, befristet bis 30.»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,29.42
+261,3.0,68,2900,8003,Albisriederplatz 1,Zürich,«Tolle Stadtwohnung an zentraler Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,42.65
+261,4.5,101,2570,8046,Wehntalerstrasse 286,Zürich,«Zentrale Wohnlage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,25.45
+261,1.5,32,2070,8048,Herrligweg 9,Zürich,«Wohnperle sucht Mieter»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,64.69
+261,5.0,187,8900,8002,Parkring 57,Zürich,«Wohnanlage Im Parkring - Exklusive Attikawohnung zu vermieten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,47.59
+261,3.5,84,3190,8038,Seestrasse 412,Zürich,«Vollsanierte 3.5 Zimmerwohnung direkt am See»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,37.98
+261,3.5,78,2130,8050,Langwiesstrasse,Zürich,"«3,5 Zimmer Wohnung nahe Bhf. Oerlikon mit privat Garten»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,27.31
+261,2.5,63,1950,8053,Witikonerstrasse 297,Zürich,«Modernes Wohnen im Zentrum von Wittikon»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,30.95
+261,4.5,97,3850,8041,Soodstrasse 88,Zürich,"«Luxus Leimbach 4.5 Zim.+W/T, +Lag, 5 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,39.69
+261,1.5,37,1947,8047,Letzigraben 120,Zürich,«1.5 Zimmerwohnung direkt am Letzigraben!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,52.62
+261,3.5,84,3460,8038,Seestrasse 412,Zürich,«Vollsanierte 3.5 Zimmerwohnung direkt am See»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,41.19
+261,3.5,74,4200,8004,Badenerstrasse  250,Zürich,«Neu - Luxuriös - Am Puls von Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,56.76
+261,3.5,61,1490,8038,Ziegelstrasse 20,Zürich,«Gemütliche Wohnung sucht neue Mieter!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,24.43
+261,1.5,231,2990,8041,Soodstrasse 90,Zürich,«Wohnen für Individualisten!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,12.94
+261,3.5,90,3800,8057,Hofwiesenstrasse 135,Zürich,"«Erstbezug grosse 3,5 Zi Wohnung mit Gartensitzplatz»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,42.22
+261,4.0,108,2435,8053,Wiesliacher 16,Zürich,"«Schöne und ruhige Wohnlage, Nähe Naherholungsgebiete»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,22.55
+261,3.5,110,5870,8045,Staffelstrasse 13,Zürich,"«Schöne Wiedikon 3.5 Zim.+ W/T, +Lag.,2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,53.36
+261,2.0,43,1235,8051,Grosswiesenstrasse 2,Zürich,"«Nähe Einkaufsmöglichkeiten und öffentlichen Verkehr, befristet bis 30.»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,28.72
+261,1.0,59,2270,8004,Kasernenstrasse 11,Zürich,«1-Zimmer-Studio - Mitten in Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,38.47
+261,3.0,49,2670,8004,Zwinglistrasse 35,Zürich,«Attraktive Stadtwohnung im Kreis 4»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,54.49
+261,4.5,126,4330,8006,Rigistr. 52,Zürich,«Familien Wohnung im Herzen vom Kreis 6!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,34.37
+261,4.5,108,2630,8046,Schwandenholzstrasse 232,Zürich,«4.5 Zimmer-Wohnung in einem familienfreundlichen Quartier zu vermieten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,24.35
+261,5.0,181,5320,8006,Walchestr. 25,Zürich,«Schöne Wohnung an bester Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,29.39
+261,2.5,65,1640,8048,Calandastrasse 3,Zürich,«Schöne 2-Zimmerwohnung in 8048 Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,25.23
+261,1.0,29,1590,8044,Billeterstrasse 15,Zürich,«Ihre neue Wohnung am Zürichberg»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,54.83
+261,1.5,130,1800,8049,Giacomettistrasse 17,Zürich,«Wunderschönes WG-Zimmer mit eigenem Badezimmer für Single/Studenten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,13.85
+261,3.5,125,6390,8008,Kreuzstrasse 64,Zürich,"«3.5 Zr im Mühlebach, z.F z Seefeld, voll möbliert, flex. Sofortbuchung»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,51.12
+261,4.5,98,3299,8050,Eggbühlstrasse 1,Zürich,«Modernes wohnen an bester Lage in Oerlikon!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,33.66
+261,4.0,72,2280,8045,Eibenstrasse 6,Zürich,"«Wunderschöne, sonnige, ruhige, geräumige 4.0 Zimmer Wohnung im 3 Stock»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,31.67
+261,1.5,30,1480,8038,Butzenstrasse 2,Zürich,«Wohnen im schönen Wollishofen»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,49.33
+261,4.5,111,3765,8050,Eggbühlstrasse 24,Zürich,«Wohnen im «Eggbühl»»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,33.92
+261,1.0,20,2150,8001,Limmatquai 70,Zürich,«Bijou Appartement am Limmatquai»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,107.5
+261,1.0,22,1300,8050,Affolternstrasse 103,Zürich,"«An ruhiger Lage in schönem Wohnquartier, nahe Bahnhof Oerlikon!»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,59.09
+261,2.5,57,1370,8102,Zürcherstrasse 5,Oberengstringen,«Wohnen an zentraler Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,24.04
+261,3.5,85,3415,8008,Forchstr. 26,Zürich,«Ihre neue Wohnung im Seefeld!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,40.18
+261,3.5,71,3190,8047,Langgrütstrasse 96,Zürich,«ERSTBEZUG Neubau Letzigraben in 8047 Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,44.93
+261,3.5,76,4550,8037,Scheffelstrasse 11,Zürich,"«Schike Wipkingen 3.5 Zim.+W/T, +Lag.,2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,59.87
+261,2.5,103,3120,8050,Magdalenenstrasse 9,Zürich,"«Hip Oerlikon 2.5 Zim.+Lag., 2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,30.29
+261,2.5,71,3090,8008,Kreuzstrasse 55,Zürich,«Wohnen im Zürcher Seefeld»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,43.52
+261,4.5,99,2900,8050,Emil Oprecht-Str. 1,Zürich,«Moderne Stadtwohnung am MFO-Park in Neu-Oerlikon»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,29.29
+261,2.0,54,1904,8052,Schaffhauserstrasse 475,Zürich,«Ansprechende Wohnung an zentraler Lage in Seebach»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,35.26
+261,4.0,97,3665,8008,Seefeldstr. 117,Zürich,«Wohnen mittem im Zürich Seefeld»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,37.78
+261,2.5,67,3300,8005,Röntgenstrasse 48,Zürich,«Neu renoviert und an zentraler Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,49.25
+261,2.0,46,1450,8047,Dennlerstr. 24,Zürich,«Befristete Single Wohnung Nähe Letzipark - MIETEN OHNE KAUTION»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,31.52
+261,1.5,43,1740,8050,Jungholzstrasse 20,Zürich,«Zentrale Lage - idyllisch und ruhig»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,40.47
+261,4.0,87,2767,8002,Waffenplatzstrasse 80,Zürich,«Charmante Stadtwohnung - befristet bis 30.11.2023»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,31.8
+261,1.0,83,2800,8048,Badenerstrasse 595,Zürich,"«Zentral gelegene möbilierte Loft - Wohnung, modern, luxuriös im lebhaften Zürich-West»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,33.73
+261,2.5,42,3000,8049,Am Wasser 161,Zürich,«Traumhafte Wohnoase direkt an der Limmat»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,71.43
+261,1.5,25,1650,8005,Ackerstrasse 55,Zürich,«Möblierte Single-Wohnung sucht dich!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,66.0
+261,3.5,131,3358,8049,Imbisbühlstrasse 108,Zürich,«Schönes Wohnen in Höngg»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,25.63
+261,3.5,110,2850,8050,Neudorfstr. 17,Zürich,«Charmante Wohnung befristet bis 30.09.2024 zur Miete!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,25.91
+261,4.0,82,3490,8003,Gerhardstrasse 8,Zürich,«Ruhige und Zentrale Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,42.56
+261,1.0,30,1430,8048,Karstlernstrasse 14,Zürich,«Modernes Wohnen in Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,47.67
+261,1.5,41,2090,8008,Kreuzstrasse 55,Zürich,«Wohnen im Zürcher Seefeld»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,50.98
+261,2.5,56,4390,8037,Scheffelstrasse 11,Zürich,"«Hip Wipkingen 2.5 Zim.+W/T, +Lag.,2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,78.39
+261,4.5,99,2660,8050,Emil Oprecht-Str. 1,Zürich,«Hier könnte Ihr Wohntraum in Erfüllung gehen»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,26.87
+261,3.5,70,4300,8004,Elisabethenstrasse 28,Zürich,"«Ideale Wiedikon 3.5 Zim., +Lag, 1 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,61.43
+261,3.5,95,4690,8041,Spindelstrasse 12,Zürich,"«Sonnige Leimbach 3.5 Zim +Lag & Pr. W/K., 2 Min. zum Markt, über Blueg»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,49.37
+261,2.5,51,2200,8053,Lehfrauenweg 10,Zürich,«Singlewohnung an ruhiger Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,43.14
+261,2.0,51,1750,8045,Bachtobelstrasse 23,Zürich,«Top-Wohnung im Binzquartier»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,34.31
+261,2.5,76,4600,8037,Uhlandstrasse 6,Zürich,"«Schike Wipkingen 3.5 Zim.+W/T, +Lag.,2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,60.53
+261,2.5,56,1750,8048,Herrligstrasse 36,Zürich,«Attraktive 2.5 Zi. Wohnung per sofort zu vermieten!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,31.25
+261,4.5,91,2360,8057,Hubenstr. 14,Zürich,«zentrales Wohnen im Grünen»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,25.93
+261,3.5,99,5150,8004,Gustav-Gull-Platz 11,Zürich,"«3.5-Zimmer-Wohnung, 14. OG, L14.5, 99.9 m2»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,52.02
+261,3.5,69,3750,8006,Nelkenstrasse 20,Zürich,«Familienfreundliches Apartment mit Balkon in Nähe der ETH Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,54.35
+261,4.5,120,5211,8004,Gustav-Gull-Platz 11,Zürich,"«4.5-Zimmer-Wohnung, 11. OG, L11.1, 120.1 m2»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,43.42
+261,2.5,50,2840,8050,Dörflistrasse 112,Zürich,"«2.5 Zr im Oerlikon, z.F z. Bahnhof, voll möbliert, flex. Sofortbuchung»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,56.8
+261,4.5,90,2420,8046,Schwandenholzstrasse 260,Zürich,«Grosszügige Familienwohnung mit Gartensitzplatz»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,26.89
+261,3.5,67,2670,8047,Letzigraben 165,Zürich,«ERSTBEZUG Neubau Letzigraben in 8047 Zürich Albisrieden»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,39.85
+261,2.5,71,2140,8041,Maneggplatz 40,Zürich,«Ihre neue Wohlfühloase im Greencity!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,30.14
+261,2.5,68,1762,8046,Jonas-Furrer-Str. 21,Zürich,«Schöne 2.5-Zimmerwohnung an zentraler Lage zu vermieten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,25.91
+261,1.0,35,1750,8002,Schulhausstrasse 47,Zürich,«Stadt-Oase an Top-Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,50.0
+261,1.0,111,2330,8050,Hagenholzstrasse 66,Zürich,«Topmodernes 1-Zimmerwohnatelier im Loftstil»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,20.99
+261,3.5,90,2290,8046,Holderbachweg 8,Zürich,«Grosszügige Wohnung nähe Zenthenhausplatz»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,25.44
+261,2.0,54,1570,8050,Jungstrasse 18,Zürich,«2-Zimmerwohnung Nähe AKAD»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,29.07
+261,1.5,77,2450,8048,Altstetterstrasse 178,Zürich,«ZUHAUSE WOHLFÜHLEN - im aufstrebenden Wohnquartier»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,31.82
+261,3.5,75,4100,8038,Etzelstrasse 6,Zürich,"«3.5 Zr im Wollishofen, zFz Zentral Markt, voll möbliert, Sofortbuchung»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,54.67
+261,4.5,97,5810,8032,Heliosstrasse 12,Zürich,"«Schike Weinegg 4.5 Zim.+W/T, +Lag.,2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,59.9
+261,1.5,30,3790,8008,Baurstrasse 29,Zürich,«Senior 1.5 room apartment with balcony»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,126.33
+261,4.5,125,4480,8048,Feldblumenstrasse 10,Zürich,"«4,5 Zimmerwohnung mit 2 Balkonen (Erstvermietung)»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,35.84
+261,3.5,91,2950,8041,Maneggplatz 14,Zürich,«Überbauung Greencity: Gemütliche Neubauwohnung im 7. OG»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,32.42
+261,1.5,51,1780,8004,Feldstrasse 40,Zürich,«Zentrale Singlewohnung im Kreis 4»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,34.9
+261,4.0,105,3840,8048,Badenerstrasse 595,Zürich,"«Geschmackvolles Altstetten 4 Zim., 2 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,36.57
+261,4.5,98,3565,8053,am Oeschbrig 5,Zürich,«Ruhige moderne Wohung in Waldnähe Witikon»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,36.38
+261,4.5,96,3690,8047,Letzigraben 165,Zürich,«ERSTBEZUG Neubau Letzigraben in 8047 Zürich Albisrieden»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,38.44
+261,1.5,22,1750,8049,Am Wasser 161,Zürich,«WOW AN DER LIMMAT»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,79.55
+261,2.5,58,2390,8047,Letzigraben 165,Zürich,«ERSTBEZUG Neubau Letzigraben in 8047 Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,41.21
+261,4.0,115,3640,8008,Mühlebachstrasse 76,Zürich,«Schöne Stadtwohnung direkt im Seefeld!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,31.65
+261,1.5,161,2745,8041,Soodstrasse 90,Zürich,«Wohnen für Individualisten!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,17.05
+261,3.5,103,2870,8055,Bühlstrasse 45C,Zürich,«Moderne Wohnung in familienfreundlicher Siedlung am Fusse des Uetliber»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,27.86
+261,3.0,66,2090,8046,Riedenhaldenstrasse 254,Zürich,«Sonnige Wohnlage in Zürich-Affoltern»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,31.67
+261,3.5,84,2950,8057,Oerlikonerstrasse 87,Zürich,«Moderne Stadtwohnung - Hier sind Sie rundum bedient!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,35.12
+261,2.5,71,2300,8048,Bachmattstr. 59,Zürich,«Stilvoll wohnen»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,32.39
+261,3.5,97,3595,8055,Birmensdorferstrasse 598,Zürich,"«Wohnen ""Im Goldacher""»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,37.06
+261,2.5,45,3050,8003,Schrennengasse 14,Zürich,"«Luxus Wiedikon 2.5 Zim.+W/T, +Lag, 1 Min. zum Markt, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,67.78
+261,2.5,60,1920,8038,Redingstrasse 3,Zürich,«renovierte sonnige 2.5-Zimmer-Wohnung»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,32.0
+261,1.5,55,2195,8055,Birmensdorferstrasse 596,Zürich,"«Wohnen ""Im Goldacher""»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,39.91
+261,1.5,52,2520,8006,Ottikerstrasse 11,Zürich,«IHR NEUES ZUHAUSE - 52m2 grosses Bijoux mit Charme im Kreis 6»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,48.46
+261,3.5,78,2461,8032,Zeltweg 68,Zürich,«Glücksfall am Zeltweg - befristet bis 30.09.2023»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,31.55
+261,1.0,23,1700,8008,Hallenstrasse 8,Zürich,«Singlewohnung im Zürcher Seefeld»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,73.91
+261,2.5,77,5250,8008,Färberstrasse 27,Zürich,«7 Gehminuten bis zur Oper»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,68.18
+261,4.5,134,4290,8006,Stampfenbachplatz 4,Zürich,"«""Moderne Wohnung - in unmittelbarer Nähe vom Hauptbahnhof""»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,32.01
+261,6.0,153,4240,8053,Wehrenbachhalde 39,Zürich,«Großzügige Wohnung in Zürich-Witikon»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,27.71
+261,4.5,89,4540,8008,Seefeldstr. 168,Zürich,«Neu sanierte Liegenschaft im Herzen von Zürich»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,51.01
+261,4.5,117,3980,8057,Käferholzstrasse 60,Zürich,«Modernes Wohnen im Guggachpark»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,34.02
+261,2.5,62,2475,8044,Hinterbergstrasse 57,Zürich,«Erstvermietung nach Total-Sanierung: 2.5 Zimmerwohnung am ruhigen und sonnigen Zürichberg!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,39.92
+261,3.0,78,3700,8008,Höschgasse 46,Zürich,«möblierte & befristete Wohnung im Seefeld ab Oktober für sechs Monate»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,47.44
+261,3.5,131,3190,8049,Imbisbühlstrasse 110,Zürich,«Exklusives Wohnen in Zürich Höngg 1 Jahr befristet»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,100 - 500,24.35
+261,3.0,78,2500,8004,Feldstrasse 39,Zürich,«Wohnen in Zürich mit Dachterrasse»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,32.05
+261,4.5,85,5190,8057,Beckhammer 19,Zürich,"«Luxe Unterstrass 4.5 Zim.+W/T, +Lag, über Blueground»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,61.06
+261,3.0,49,1440,8051,Grosswiesenstrasse 20,Zürich,"«Sonnig und im Grünen gelegen, befr. bis 30.09.2024»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,29.39
+261,2.5,75,2330,8041,Soodstrasse 90,Zürich,«Stadtnahes Wohnen im Kreis 2»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,31.07
+261,4.0,67,1990,8038,Balberstrasse 68,Zürich,«Gemütliche Wohnung in ruhiger Umgebung - befristet bis am 31.03.2024»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,29.7
+261,1.0,38,900,8046,Im Holzerhurd 60,Zürich,«1 Einzelzimmer mit eigenem Badezimmer in einer Wohngemeinschaft»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,23.68
+261,2.5,64,1650,8057,Rosmarinweg 3,Zürich,«Ruhige Wohnung an zentraler Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,25.78
+261,2.5,48,2030,8049,Hohenklingenstrasse 45,Zürich,«Angenehmes Wohnen an zentrumsnaher Wohnlage!»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,42.29
+261,2.5,60,2790,8008,Höschgasse 76,Zürich,«2.5-Zimmerwohnung an ruhiger Lage mitten im Seefeldquartier»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,46.5
+261,4.5,98,2795,8048,Baslerstrasse 31,Zürich,«Über den Dächern von Altstetten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,28.52
+261,2.5,66,1884,8050,Neunbrunnenstr. 153,Zürich,«Ihre neue Wohnung»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,28.55
+261,3.5,70,2640,8004,Sihlhallenstrasse 28,Zürich,«Am Puls des Stadtlebens»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,37.71
+261,1.5,25,2100,8004,Badenerstrasse 250,Zürich,"«Big City Life - Hochwertiger, cleverer Innenausbau - Kreis 4»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,0 - 49,84.0
+261,3.5,65,3330,8050,Dörflistrasse 112,Zürich,"«3.5 Zr im Oerlikon, z.F z. Bahnhof, voll möbliert, flex. Sofortbuchung»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,51.23
+261,2.5,54,3800,8032,Klosbachstrasse 44,Zürich,"«2.5 Zr im Weinegg, 10 Min. z Seefeld, voll möbliert, flex Mietdauer, S»",Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,70.37
+261,1.0,64,2390,8050,Birchstrasse 98,Zürich,«Moderne Loft in Oerlikon»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,37.34
+261,2.5,59,2480,8048,Badenerstrasse 701,Zürich,«Single-Wohnung an der besten Lage»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,42.03
+261,3.0,64,2370,8046,Wehntalerstrasse 402,Zürich,«3 Zimmerwohnung in grüner Umgebung»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,37.03
+261,1.5,65,2470,8032,Forchstrasse 261,Zürich,«Traumhafte Loftwohnung gesucht?»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,38.0
+261,2.5,56,1870,8055,Im Heuried 52,Zürich,«Ihre Wohnung an ruhiger Lage - befristetes Wohnen»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,33.39
+261,3.5,70,2190,8048,Bachmattstrasse 66,Zürich,«Moderne 3.5-Zimmerwohnung in Altstetten»,Zürich,420217,4778.9946548391,32.4584678868,491193.0,85446,0,50 - 99,31.29
+121,5.5,115,2860,8623,Langfurrenstrasse 5c,Wetzikon ZH,«Wohnmomente zum Festhalten»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,100 - 500,24.87
+121,4.5,109,2390,8623,Rosenstrasse 1,Wetzikon ZH,«Neuebau in Wetzikon»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,100 - 500,21.93
+121,1.5,38,1185,8623,Langfurrenstrasse 5c,Wetzikon ZH,«Klein aber mein: Erstvermietung»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,0 - 49,31.18
+121,5.5,115,2120,8620,Spitalstr. 157,Wetzikon ZH,«Moderne Wohnung mitten in Wetzikon»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,100 - 500,18.43
+121,2.5,86,1660,8620,Pappelnstr. 14,Wetzikon ZH,«Mitten in der Stadt und doch im Grünen»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,19.3
+121,3.5,90,2385,8623,Langfurrenstrasse 5a,Wetzikon ZH,«Erstbezug: Bachtelblick Wetzikon»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,26.5
+121,2.5,76,1760,8620,Kirchgasse 4,Wetzikon ZH,«Elegante Wohnung»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,23.16
+121,2.5,60,1720,8623,Langfurrenstrasse 5b,Wetzikon ZH,«Erstvermietung in Wetzikon»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,28.67
+121,2.5,60,1540,8620,Weststrasse 66,Wetzikon ZH,«Ihr neuer Wohnungsstart»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,25.67
+121,2.5,73,1860,8620,Bahnhofstrasse 117,Wetzikon ZH,«Schöne 2.5-Zimmer-Wohnung mitten in der Stadt»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,25.48
+121,3.5,72,1564,8620,Schneggenstr. 24,Wetzikon ZH,«Charmante Wohnung mit Balkon zu vermieten ...»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,21.72
+121,3.5,95,2000,8620,Guyer-Zeller-Strasse 1,Wetzikon ZH,«MODERNE HELLE 3.5 ZIMMERWOHNUNG IM HERZEN VON ZÜRI OBERLAND»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,21.05
+121,2.5,55,1470,8620,Weststrasse 68,Wetzikon ZH,«Modernes Wohnen an zentraler Lage»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,26.73
+121,4.5,90,1870,8620,Messikommerstrasse 37,Wetzikon ZH,«4 1/2 Zimmer Wohnung wird frisch saniert»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,20.78
+121,3.5,100,2230,8620,Zelglistrasse 11A,Wetzikon ZH,«3.5-Zimmer Maisonettewohnung»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,22.3
+121,3.0,138,2190,8620,Bahnhofstrasse 148,Wetzikon ZH,«Ihre Wohlfühloase im Zentrum von Wetzikon»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,100 - 500,15.87
+121,1.5,90,1890,8620,Usterstrasse 44,Wetzikon ZH,«Erstvermietung: Smart Living in Wetzikon - Atelier/Loft»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,50 - 99,21.0
+121,5.5,123,2550,8620,Blaketen 6,Wetzikon ZH,«Grosszügige Familienwohnung»,Wetzikon (ZH),24990,1486.6151100535,25.9943977591,14163.0,68951,0,100 - 500,20.73
+86,3.5,74,2165,8157,Sandbuckweg 5A,Dielsdorf,"«3,5 pièces, 74 m²»",Dielsdorf,5966,1016.3543441227,31.847133758,4370.0,75326,0,50 - 99,29.26
+86,3.0,65,1860,8157,Heugasse 2,Dielsdorf,«Ihr neues Zuhause mit Blick ins Grüne»,Dielsdorf,5966,1016.3543441227,31.847133758,4370.0,75326,0,50 - 99,28.62
+86,3.5,120,2350,8157,Altmoosstrasse 17,Dielsdorf,«Traumhafte Dachwohnung an toller Lage»,Dielsdorf,5966,1016.3543441227,31.847133758,4370.0,75326,0,100 - 500,19.58
+86,3.5,75,1910,8157,Krummibuckweg 9,Dielsdorf,«Ihre Traum Wohnung!»,Dielsdorf,5966,1016.3543441227,31.847133758,4370.0,75326,0,50 - 99,25.47
+86,4.5,108,2509,8157,Mühlestrasse 1,Dielsdorf,«4.5-Zimmerwohnung im Erdgeschoss mit Gartensitzplatz»,Dielsdorf,5966,1016.3543441227,31.847133758,4370.0,75326,0,100 - 500,23.23
+86,3.5,88,1840,8157,Krummibuckweg 6,Dielsdorf,«Gemütliche Wohnung mit Blick ins Grüne»,Dielsdorf,5966,1016.3543441227,31.847133758,4370.0,75326,0,50 - 99,20.91
+86,4.5,95,1950,8157,Regensbergstrasse 8,Dielsdorf,«ZENTRAL UND RENOVIERT»,Dielsdorf,5966,1016.3543441227,31.847133758,4370.0,75326,0,50 - 99,20.53
+198,2.0,47,1400,8610,Ifangweg 1,Uster,«OHNE MIETKAUTION - Super ruhige ländliche Lage»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,0 - 49,29.79
+198,3.5,72,1690,8610,Unterbühlenstr. 3B,Uster,«MIETEN OHNE KAUTION - Wohnung sucht Mieter!»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,23.47
+198,3.0,68,1315,8610,Ifangweg 8,Uster,«Wohnen an zentraler Lage»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,19.34
+198,4.5,106,2670,8610,Steigstr. 3,Uster,«Weitsicht auf der sonnigen Terrasse geniessen»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,100 - 500,25.19
+198,4.5,132,2980,8610,Poststr. 3,Uster,«Skyline - Über den Dächern von Uster»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,100 - 500,22.58
+198,3.5,98,2190,8610,Meierackerstr. 4,Uster,«MIETEN OHNE DEPOT - Moderne Wohnung an ruhiger Lage»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,22.35
+198,1.0,134,3200,8610,Gerichtsstrasse 5,Uster,«Loft-Wohnung mitten im Zentrum»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,100 - 500,23.88
+198,3.5,112,2150,8610,Florastr. 14,Uster,«Tolle Dachwohnung an zentraler Lage in Uster»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,100 - 500,19.2
+198,3.5,92,1964,8610,Oberlandstr. 75,Uster,«MIETEN OHNE DEPOT - Wohnung an zentraler Lage!»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,21.35
+198,2.0,47,1425,8610,Ifangweg 7,Uster,«MIETEN OHNE KAUTION - Hier finden Sie mehr für weniger.»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,0 - 49,30.32
+198,3.5,76,1875,8610,Brunnenwiesenstr. 40,Uster,«MIETEN OHNE KAUTION - vertrautes Heim an zentraler Lage»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,24.67
+198,1.0,147,2450,8610,Aathalstrasse 34,Uster,«Exklusive Loftwohnung zu vermieten»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,100 - 500,16.67
+198,4.5,98,2100,8610,Wermatswilerstrasse 91,Uster,«Wohnen mit Abendsonne und unverbaubarer Fernsicht»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,21.43
+198,3.5,73,1800,8610,Breitigasse 5,Uster,«MIETEN OHNE KAUTION - Ruhige Lage mit viel Grün»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,24.66
+198,3.0,69,1655,8610,Stöcklerstr. 6,Uster,«Wohnen in ländlicher Umgebung und doch zentral!»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,23.99
+198,3.0,62,1690,8610,Zeltweg 23,Uster,«Idyllische und ruhige Lage beim Zellweger Park»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,27.26
+198,3.5,92,2030,8610,Oberlandstr. 75,Uster,«MIETEN OHNE DEPOT - zentrale Wohnung im Grünen»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,22.07
+198,3.5,92,2020,8610,Oberlandstr. 75,Uster,«MIETEN OHNE DEPOT - zentrale Wohnung im Grünen»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,21.96
+198,4.5,107,1930,8616,Alte Blindenholzstrasse 3,Riedikon,«Grosszügige und helle Maisonette-Wohnung!»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,100 - 500,18.04
+198,2.5,77,1990,8610,Seestrasse 139,Uster,«Nur wenige Schritte vom Greifensee entfernt!»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,25.84
+198,2.5,51,1500,8610,Ifangweg 11,Uster,"«MIETEN OHNE KAUTION - Sehr ruhige, ländliche Lage»",Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,29.41
+198,3.0,67,1660,8610,Archstrasse 13,Uster,«Wohnen im Grünen - ruhige Lage und doch verkehrsgünstig»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,24.78
+198,3.5,84,2060,8610,Bankstrasse 27,Uster,«Grosszügige Wohnung nähe Bahnhof Uster»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,24.52
+198,3.5,74,1800,8610,Breitigasse 9,Uster,«MIETEN OHNE KAUTION - Ruhige Lage mit viel Grün»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,24.32
+198,2.5,56,1320,8610,Gschwaderstrasse 40,Uster,«Besichtigen - Einziehen - Wohlfühlen»,Uster,35007,1228.7469287469,23.0096837775,17237.0,79839,0,50 - 99,23.57
+101,4.5,97,1770,8162,Frohbergstr. 7,Steinmaur,«Neues Zuhause für Sie und Ihre Kinder»,Steinmaur,3609,384.3450479233,27.1266278748,824.0,78042,0,50 - 99,18.25
+200,3.5,68,1610,8306,Eichstrasse 1,Brüttisellen,«2 x 3.5-Zimmerwohnungen an verkehrsgünstiger Lage»,Wangen-Brüttisellen,7967,1005.9343434343,27.3252165181,5859.0,84772,0,50 - 99,23.68
+230,2.5,55,1490,8400,Wülflingerstrasse 48,Winterthur,«RENOVIERT MIT GARTENSITZPLATZ»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,27.09
+230,3.5,86,2420,8400,St. Gallerstrasse 42d,Winterthur,"«Wohnen im Sidiareal, www.sidiareal.ch»",Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,28.14
+230,1.0,26,1145,8400,Wartstr. 28,Winterthur,«Helle Wohnung in bester Infrastruktur «Mieten ohne Kaution»»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,44.04
+230,2.5,62,1500,8405,Landvogt-Waser-Strasse 67,Winterthur,«Zentrale Wohnung in Winterthur-Seen»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.19
+230,3.5,70,1690,8405,Wingertlistrasse 9,Winterthur,«Gemütliche Wohnung»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.14
+230,4.0,76,1665,8400,Hulfteggstrasse 16,Winterthur,«MIETEN OHNE KAUTION - Ruhige grüne Wohnlage!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,21.91
+230,2.5,66,1900,8400,Seuzacherstr. 9a,Winterthur,«Luxuriöses Wohnen oberhalb der Shopping Mall!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,28.79
+230,4.5,121,2720,8405,Oberseenerstrasse 77,Winterthur,«Moderne Attikawohnung in familiärem Quartier»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,22.48
+230,2.0,54,1450,8400,Scheideggstrasse 8,Winterthur,«Sanierte helle Wohnung»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.85
+230,3.5,89,2350,8405,Bollstrasse 64,Winterthur,«Stadtnahe 3.5-Zimmer-Neubauwohnung mit stilvollem Innenausbau»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.4
+230,3.0,67,1990,8400,Scherrerstrasse 8,Winterthur,"«Grosszügige, helle Wohnung in ruhigem Wohnquartier mit Balkon»",Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,29.7
+230,1.0,24,1350,8406,Zürcherstrasse 57,Winterthur,«Wohnen im Zentrum von Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,56.25
+230,3.0,62,1481,8400,Tösstalstrasse 174,Winterthur,«wohnen an super Lage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,23.89
+230,3.5,88,2345,8405,Bollstrasse 66,Winterthur,«Stadtnahe und moderne 3.5-Zimmer-Wohnung mit stilvollem Innenausbau im Eigentumsstandard»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.65
+230,1.0,89,1900,8400,Pionierstr. 22,Winterthur,«Wohnen und Arbeiten im Sulzer-Areal»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,21.35
+230,3.5,103,2240,8406,Zürcherstrasse 54,Winterthur,«Modernes Wohnen im Herzen von Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,21.75
+230,2.5,61,1930,8406,Jägerstrasse 59,Winterthur,«Rooftop-Wohnen auf dem Lokwerk»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,31.64
+230,3.5,97,2110,8400,Endlikerstrasse 106,Winterthur,«Renovierte Attikawohnung mit Charme an zentraler Lage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,21.75
+230,1.5,120,1700,8405,Waldeggstrasse 8,Winterthur,«Exklusive Nichtraucher-Dach-Loft in Winterthur Seen»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,14.17
+230,3.5,68,2280,8400,General-Guisan-Strasse 25,Winterthur,«Totalsanierte 3.5-Zimmer Altstadtwohnung»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,33.53
+230,3.5,72,1750,8400,Gottfried Keller-Strasse 77,Winterthur,«Lichtdurchflutete Wohnung für Sie!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.31
+230,4.5,106,2470,8405,Landvogt-Waser-Strasse 69,Winterthur,«Attika-Wohnung nähe Bahnhof Winterthur-Seen»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,23.3
+230,3.0,64,1320,8406,Giesserstrasse 15,Winterthur,«wohnen an zentraler Lage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,20.62
+230,4.5,119,2583,8408,Wülflingerstrasse 151a,Winterthur,«Platz für die ganze Familie»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,21.71
+230,1.0,28,1350,8406,Zürcherstrasse 57,Winterthur,«Urbanes Wohnen im Zentrum von Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,48.21
+230,2.0,40,1490,8405,Florenstrasse 56,Winterthur,«Möbliertes Wohnen ohne Aufwand»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,37.25
+230,3.5,76,1520,8404,Heiniweg 16,Winterthur,"«Wohnung mit Charme! ""Mieten ohne Kaution""»",Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,20.0
+230,4.0,82,2130,8406,Agnesstrasse 2,Winterthur,«Charmante Altbauwohnung sucht neue Mieter!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,25.98
+230,4.5,115,3220,8404,Alte Römerstrasse 24,Winterthur,"«Attraktive Wohnung in ruhigem Quartier, ausgebaut für den Eigenbedarf»",Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,28.0
+230,3.0,60,1610,8400,Sulzbergstrasse 8,Winterthur,«Wohnen an ruhiger Lage in der Nähe des Bahnhof - befristet - 30.09.2024»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.83
+230,2.5,71,2070,8400,Rychenbergstr. 61,Winterthur,«Moderne Wohnsiedlung an urbaner Zentrumslage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,29.15
+230,2.5,62,1640,8405,Landvogt-Waser-Strasse 69,Winterthur,«Gemütliche Wohnung an ruhiger und zentraler Lage gesucht?!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.45
+230,2.5,70,1595,8408,Wülflingerstrasse 349,Winterthur,«Zentrale Wohnung zu vermieten»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.79
+230,4.5,130,2620,8400,Konradstrasse 12,Winterthur,«Grosszügige Wohnung am Puls des Geschehens»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,20.15
+230,4.5,114,2650,8408,Wülflingerstrasse 151a,Winterthur,«Wohnglück auf den ersten Blick»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,23.25
+230,3.5,144,2410,8404,Else-Züblin-Strasse 112,Winterthur,«Suchen Sie eine trendige Wohnung? Wir haben sie!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,16.74
+230,3.5,99,2140,8404,Else-Züblin-Str. 74,Winterthur,«Idyllische 3.5 Zimmer-Wohnung»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,21.62
+230,4.0,112,3350,8400,Kreuzstrasse 7,Winterthur,«ERSTVERMIETUNG: stilvoll sanierte 4-Zimmer-Stadtwohnung im 1. OG mit Terrasse»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,29.91
+230,3.5,94,2800,8400,Neuwiesenstrasse 31,Winterthur,«Moderne Wohnung im zentralen Neuwiesenquartier»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,29.79
+230,4.0,112,3350,8400,Kreuzstrasse 7,Winterthur,«ERSTVERMIETUNG: Stilvoll sanierte 4-Zimmer-Stadtwohnung im 2. OG mit Terrasse»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,29.91
+230,2.0,54,1910,8400,Wülflingerstrasse 2,Winterthur,«Urban und Zentral»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,35.37
+230,1.5,33,1259,8406,Poststrasse 1,Winterthur,«MODERNE 1.5-ZIMMERWOHNUNG ZENTRAL GELEGEN»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,38.15
+230,3.5,88,1780,8404,Unterwegli 35,Winterthur,"«Grösszügige, moderne 3.5 Zimmer-Wohnung ""Mieten ohne Kaution""»",Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,20.23
+230,3.5,94,2160,8404,Else-Züblin-Strasse 73,Winterthur,«ROY - erlebe das neue Winterthur!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.98
+230,5.0,95,1570,8400,Hulfteggstr. 19,Winterthur,«Wohnung an Kinderfreundlichen Lage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,16.53
+230,3.0,62,1505,8408,Holzlegistr. 6,Winterthur,«Liegenschaft an ruhiger Lage - Mieten ohne Kaution»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.27
+230,3.5,94,2085,8404,Else-Züblin-Strasse 77,Winterthur,«Sie brauchen Platz? - die Überbauung ROY hat ihn!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.18
+230,4.5,109,2885,8400,Magazingasse 2,Winterthur,«Stadtnahes Wohnen»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,26.47
+230,4.0,82,1950,8400,Schaffhauserstrasse 29,Winterthur,«Charmante Wohnung an ruhiger Lage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,23.78
+230,2.5,68,2020,8400,Schlosshofstrasse 21,Winterthur,«Werk 3 - rundum attrakiv leben im 5. Obergeschoss»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,29.71
+230,4.0,90,2130,8400,Breitestrasse 56,Winterthur,«Wohnung im beliebten Breitequartier»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,23.67
+230,3.5,63,1790,8400,Tellstrasse 16a,Winterthur,«Wohnen im Zentrum von Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,28.41
+230,4.0,75,1950,8400,Thurgauerstrasse 2,Winterthur,«Zentral und sonnig gelegene 4-Zimmerwohnung in Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.0
+230,2.0,45,1390,8406,Nägelseestrasse 26,Winterthur,«Wohnen an der Töss»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,30.89
+230,3.5,71,1617,8404,Türlimattstr. 1,Winterthur,"«Kleines, ruhiges Quartier mitten in Oberwinterthur - MIETEN OHNE DEPOT!»",Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.77
+230,3.5,85,2110,8408,Wülflingerstrasse 151b,Winterthur,«Leben Sie Ihren Wohntraum!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.82
+230,3.0,65,1750,8405,Seenerstrasse 218,Winterthur,«Helle Familienwohnung im Hochparterre - Nebenkosten inklusive!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.92
+230,2.5,56,1390,8400,Römerstrasse 52,Winterthur,«Attraktive Wohnung an bevorzugter Wohnlage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.82
+230,3.0,61,1445,8406,Unt. Schöntalstrasse 5,Winterthur,«Ideale Pendlerwohnung nahe der Autobahnausfahrt Töss»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,23.69
+230,4.5,109,2500,8400,Weberstrasse 91,Winterthur,«Moderne 4.5-Zimmerwohnung mit schöner Weitsicht»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,22.94
+230,3.5,82,2350,8406,Jägerstrasse 59,Winterthur,«Rooftop-Wohnen auf dem Lokwerk»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,28.66
+230,2.0,51,1550,8400,Sulzbergstrasse 8,Winterthur,«Wohnung an ruhiger Lage in der Nähe des Bahnhofs-befristet bis 30.09.2024»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,30.39
+230,1.5,100,2200,8406,Hündlerstrasse 77,Winterthur,«grosses Loft mit Garten»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.0
+230,2.5,76,2025,8404,Else-Züblin-Strasse 77,Winterthur,«Ob gemeinsam oder allein - 2.5-Zimmer-Wohnung im ROY»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.64
+230,3.5,75,1650,8400,Grüzefeldstrasse 44,Winterthur,««Frisch sanierte 3.5 Zimmerwohnung zu vermieten»»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.0
+230,4.5,87,1770,8400,Schaffhauserstrasse 32,Winterthur,«Grosszügige und zentrale 4.5-Zimmerwohnung»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,20.34
+230,3.5,95,2480,8400,Seuzacherstr. 11a,Winterthur,"«Wohnen mit Concierge - Entspannend, Beruhigend und Einzigartig!»",Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.11
+230,3.5,78,1490,8400,General-Guisan-Strasse 43,Winterthur,«AM RANDE DER ALTSTADT»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,19.1
+230,4.5,85,1890,8404,Türlimattstr. 3,Winterthur,«Heimelige Wohnung mit Gartensitzplatz - Mieten ohne Kaution!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.24
+230,2.5,111,2370,8400,Katharina Sulzer Platz 8,Winterthur,«Modernes Wohnen garantiert! - Mieten ohne Kaution»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,21.35
+230,3.0,62,1495,8400,Hulfteggstrasse 18,Winterthur,«MIETEN OHNE KAUTION - Wohnen an ruhiger Lage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.11
+230,2.0,39,1040,8406,Schulergasse 4,Winterthur,«Moderne Single-Wohnung mit Sitzplatz sucht Sie!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,26.67
+230,2.0,52,1700,8400,Steiggasse 4,Winterthur,«Neu sanierte Wohnung in der Altstadt von Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,32.69
+230,3.0,61,1340,8404,Hegifeldstrasse 64,Winterthur,«Abwechslung gefällig?»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,21.97
+230,3.5,83,2040,8408,Espenstr. 73,Winterthur,«Moderne Wohnung an zentraler Lage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.58
+230,2.5,70,1380,8405,Wingertlistrasse 19,Winterthur,«Wohnung in Winterthur-Seen ab 1.10.2022»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,19.71
+230,5.5,109,2280,8404,Reutlingerstr. 17,Winterthur,«Ihr neues Zuhause im Grünen!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,20.92
+230,3.5,93,2290,8408,Claisstrasse 11,Winterthur,«Grosszügige 3.5 Zimmerwohnung in Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.62
+230,3.5,83,1800,8409,Rümikerstrasse 36,Winterthur,«Modernes Wohnen mit Blick ins Grüne! Ihr neues Zuhause warte auf Sie!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,21.69
+230,3.5,94,2480,8400,Seuzacherstr. 9b,Winterthur,«Wohnen mit eigenem Concierge»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,26.38
+230,3.0,66,1700,8400,Rütlistr. 17,Winterthur,«Moderne Wohnung an zentraler Lage»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,25.76
+230,3.5,85,2420,8406,Jägerstrasse 59,Winterthur,«Ihr neues Zuhause an bester Lage mitten in Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,28.47
+230,2.5,82,1890,8406,Zürcherstrasse 58,Winterthur,«Ihr Wohntraum geht in Erfüllung»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,23.05
+230,1.5,55,1515,8400,Rosentalstrasse 72,Winterthur,«Moderne Loftwohnung im Dachgeschoss»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,27.55
+230,4.0,88,2065,8404,Sonnenblickstrasse 23,Winterthur,«Ruhig gelegen und Nahe ÖV!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,23.47
+230,1.5,158,3430,8400,Feldstrasse 16,Winterthur,«Trendige Gewerbe-Loft mit 159 m² in Winterthur mieten»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,21.71
+230,3.5,90,2030,8400,Schützenstrasse 42,Winterthur,«Zentrale Lage und doch ruhig»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.56
+230,3.5,115,1980,8404,Schlossackerstrasse 11,Winterthur,«Ihr neues zu Hause!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,17.22
+230,2.0,46,1430,8406,Eichliackerstrasse 18,Winterthur,«Perfekte Singlewohnung»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,31.09
+230,3.5,96,2390,8404,Else-Züblin-Strasse 73,Winterthur,«ROY - erlebe das neue Winterthur!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.9
+230,3.0,69,1520,8405,Bollstrasse 39,Winterthur,«Schöne Balkonwohnung - zentral & im Grünen!»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,22.03
+230,2.5,55,1675,8400,Bettenstrasse 66,Winterthur,«Exklusive Dachwohnung mit Balkon im Grünen»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,30.45
+230,1.0,27,970,8406,Einfangstrasse 13,Winterthur,«1-Zimmerwohnung»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,35.93
+230,2.0,48,1270,8404,Hegifeldstrasse 66,Winterthur,«Schönes Wohnen mit Blick ins Grüne»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,26.46
+230,2.5,71,2130,8406,Jägerstrasse 59,Winterthur,«Ihr Zuhause über den Dächern von Winterthur»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,30.0
+230,3.5,83,1770,8408,Weststr. 131,Winterthur,«Traumhafte Maisonettewohnung! MIETEN OHNE KAUTION»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,21.33
+230,2.0,46,1490,8408,Oberfeldstrasse 2,Winterthur,«Schöne 2-Zimmer-Wohnung mit Balkon»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,0 - 49,32.39
+230,3.5,93,2255,8400,Robert-Sulzer-Gasse 4,Winterthur,«Wohnwerk Winterthur: wo alles da und nah ist»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,24.25
+230,3.5,90,1570,8482,Tösstalstrasse 345,Sennhof (Winterthur),«08/15 - hier nicht - Dachwohnung mit tollem Grundriss»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,17.44
+230,4.0,98,3350,8400,Kreuzstrasse 7,Winterthur,«ERSTVERMIETUNG: stilvoll sanierte 4-Zimmer-Stadtwohnung mit eigenem Garten»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,34.18
+230,3.5,100,2710,8408,Riedhofstrasse 58,Winterthur,«Wir suchen genau Sie»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,27.1
+230,3.5,103,2090,8404,Else-Züblin-Strasse 106,Winterthur,«Suchen Sie eine trendige Wohnung?»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,100 - 500,20.29
+230,3.0,68,1750,8400,Scheideggstrasse 8,Winterthur,««Wohnen an ruhiger Lage im guten Quartier»»,Winterthur,113173,1662.5973262818,24.535003932,73339.0,70966,0,50 - 99,25.74
+194,4.0,80,1965,8606,Burstwiesenstr. 16,Greifensee,«Greifensee: Das Naherholungsgebiet»,Greifensee,5385,2372.2466960352,20.1671309192,1663.0,89901,0,50 - 99,24.56
+194,4.0,80,1920,8606,Burstwiesenstr. 22,Greifensee,«Ein Heim zum Wohlfühlen!»,Greifensee,5385,2372.2466960352,20.1671309192,1663.0,89901,0,50 - 99,24.0
+194,3.0,71,1810,8606,Sandbüelstrasse 44,Greifensee,«Einladende Wohnung am schönen Greifensee»,Greifensee,5385,2372.2466960352,20.1671309192,1663.0,89901,0,50 - 99,25.49
+194,4.0,81,1947,8606,Müllerwis 30,Greifensee,«Wohnung mit Gartensitzplatz»,Greifensee,5385,2372.2466960352,20.1671309192,1663.0,89901,0,50 - 99,24.04
+194,4.0,80,1945,8606,Burstwiesenstr. 22,Greifensee,«Ein Heim zum Wohlfühlen!»,Greifensee,5385,2372.2466960352,20.1671309192,1663.0,89901,0,50 - 99,24.31
+194,2.0,55,1422,8606,Müllerwis 25,Greifensee,«Greifensee: Das Naherholungsgebiet»,Greifensee,5385,2372.2466960352,20.1671309192,1663.0,89901,0,50 - 99,25.85
+194,5.0,94,1914,8606,Am Pfisterhölzli 36,Greifensee,«Wohnen im Grünen»,Greifensee,5385,2372.2466960352,20.1671309192,1663.0,89901,0,50 - 99,20.36
+118,1.0,34,850,8630,Bergacherstrasse 4,Rüti ZH,«Klein aber fein!»,Rüti (ZH),12286,1221.2723658052,24.8412827609,5053.0,66676,0,0 - 49,25.0
+118,3.5,78,1760,8630,Walderstrasse 103,Rüti ZH,«Ihr neues Zuhause?»,Rüti (ZH),12286,1221.2723658052,24.8412827609,5053.0,66676,0,50 - 99,22.56
+118,4.0,70,1490,8630,Widenweg 12,Rüti ZH,«Suchen Sie was in Rüti ? Helle 4 ZWG zu vermieten»,Rüti (ZH),12286,1221.2723658052,24.8412827609,5053.0,66676,0,50 - 99,21.29
+118,3.5,80,2030,8630,Werkstrasse 47,Rüti ZH,«wunderschöne 3.5-Zimmer-Wohnung zu vermieten»,Rüti (ZH),12286,1221.2723658052,24.8412827609,5053.0,66676,0,50 - 99,25.38
+118,3.0,61,1090,8630,Moosstrasse 22,Rüti ZH,«Befristetes Wohnen an ruhiger Lage»,Rüti (ZH),12286,1221.2723658052,24.8412827609,5053.0,66676,0,50 - 99,17.87
+118,4.0,79,1620,8630,Bachtelstrasse 24b,Rüti ZH,«Helle und gemütliche Familienwohnung zum attraktiven Preis!»,Rüti (ZH),12286,1221.2723658052,24.8412827609,5053.0,66676,0,50 - 99,20.51
+118,3.5,80,2050,8630,Werkstrasse 47,Rüti ZH,«moderne 3.5-Zimmer-Wohnung zu vermieten»,Rüti (ZH),12286,1221.2723658052,24.8412827609,5053.0,66676,0,50 - 99,25.62
+118,3.5,70,1465,8630,Frohwiesstrasse 14,Rüti ZH,"«An sonniger Lage, Richtung Wald»",Rüti (ZH),12286,1221.2723658052,24.8412827609,5053.0,66676,0,50 - 99,20.93
+157,3.5,78,1680,8618,Aronenweg 9,Oetwil am See,«Gemütliche Wohnung zum Wohlfühlen»,Oetwil am See,4840,792.1440261866,29.2561983471,2303.0,70794,0,50 - 99,21.54
+157,4.5,98,1885,8618,Glärnischstrasse 62,Oetwil am See,«Familienwohnung sucht neue Bewohner»,Oetwil am See,4840,792.1440261866,29.2561983471,2303.0,70794,0,50 - 99,19.23
+157,4.5,102,2000,8618,Aronenweg 17,Oetwil am See,«Tolle Wohnung mit zwei grossen Terrassen»,Oetwil am See,4840,792.1440261866,29.2561983471,2303.0,70794,0,100 - 500,19.61
+177,2.5,75,1960,8330,Pilatusstrasse 14,Pfäffikon ZH,«Ein toller Start ins eigene Wohnglück»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,26.13
+177,1.0,19,1100,8330,Schulstrasse 26a,Pfäffikon ZH,«WG-Zimmer im Herzen von Pfäffikon»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,0 - 49,57.89
+177,2.0,60,1615,8330,Obermattstrasse 82,Pfäffikon ZH,«Moderne 2 Zi-Whg. in Pfäffikon»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,26.92
+177,4.5,84,1950,8330,Steinackerstrasse 25,Pfäffikon ZH,«Gemütliche Wohnung in ruhigem Quartier»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,23.21
+177,4.5,77,1791,8330,Schärackerstrasse 15,Pfäffikon ZH,«Siedlung mit Familiensinn»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,23.26
+177,3.5,79,1710,8330,Nelkenstr. 9,Pfäffikon ZH,«Mieten ohne Kaution - Schöne Gartenwohnung in grüner Umgebung»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,21.65
+177,4.5,165,2679,8330,Nelkenstr. 2,Pfäffikon ZH,«MIETEN OHNE KAUTION - Schöne grosszügige Dachwohnung mit Cheminée!»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,100 - 500,16.24
+177,3.5,96,2060,8330,Tunnelstr. 7,Pfäffikon ZH,«Wunderschöne 3.5 Zimmerwohnung in Pfäffikon ZH gesucht...?»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,21.46
+177,3.5,76,1700,8330,Nelkenstr. 2,Pfäffikon ZH,«MIETEN OHNE KAUTON - Grüne Oase in Pfäffikon ZH»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,22.37
+177,3.5,108,2654,8330,Bachtelstrasse 57,Pfäffikon ZH,"«Charmante und Helle 3½-Zimmer-Wohnung mit Aussicht (optional) mit grossem Hobbyraum,»",Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,100 - 500,24.57
+177,3.5,91,1990,8330,Schärackerstrasse 9,Pfäffikon ZH,«Attraktive Wohnung im obersten Stock»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,21.87
+177,3.5,79,1640,8330,Nelkenstr. 9,Pfäffikon ZH,«MIETEN OHNE KAUTION - Grüne Oase in Pfäffikon!»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,20.76
+177,5.5,155,3300,8330,Tunnelstr. 5,Pfäffikon ZH,«MIETE OHNE DEPOT - Wohnvergnügen im Zentrum von Pfäffikon ZH»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,100 - 500,21.29
+177,3.5,101,2305,8330,Schulstrasse 12,Pfäffikon ZH,«Wohnoase an ruhiger Lage zu vermieten»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,100 - 500,22.82
+177,3.0,60,1500,8330,Hittnauerstrasse 62,Pfäffikon ZH,«Ein Mausklick zum Wohnungsglück!»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,25.0
+177,2.5,91,1725,8330,Hochstrasse 141,Pfäffikon ZH,"«MODERNE, HELLE DACHWOHNUNG MIT MINERGIE-ZERTIFIKAT»",Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,18.96
+177,3.5,88,1870,8330,Kempttalstrasse 43,Pfäffikon ZH,«Geniessen Sie den kommenden Sommer in Pfäffikon»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,50 - 99,21.25
+177,1.0,108,2305,8330,Pilatusstrasse 22,Pfäffikon ZH,«Pfäffikersee in Gehdistanz!»,Pfäffikon,12164,623.4751409534,19.0891154226,5895.0,80310,0,100 - 500,21.34
+131,4.0,90,2030,8134,Soodstrasse 13,Adliswil,«Wohnen in Mitten von Adliswil»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,50 - 99,22.56
+131,1.0,32,1120,8134,Rütistr. 28,Adliswil,«Frisch sanierte Wohnung an ruhiger Lage!»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,0 - 49,35.0
+131,3.5,80,2420,8134,Parkweg 10,Adliswil,«HÖFE - Die Frische eines Erstbezugs geniessen»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,50 - 99,30.25
+131,4.5,105,2850,8134,Kronenstrasse 3,Adliswil,«Familienwohnung im Zentrum von Adliswil»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,100 - 500,27.14
+131,4.5,108,3160,8134,Salamanderweg 3,Adliswil,«HÖFE - Ihre neue Familienoase!»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,100 - 500,29.26
+131,3.5,70,1950,8134,Breitenstrasse 12,Adliswil,«Ruhiges Wohnquartier am Waldrand»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,50 - 99,27.86
+131,2.5,45,1565,8134,Parkweg 8,Adliswil,«HÖFE - Erfüllen Sie sich Ihrem Wohntraum»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,0 - 49,34.78
+131,3.5,87,2075,8134,Oberhusstrasse 24,Adliswil,«Attraktive Wohnung an gepflegter Wohnlage»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,50 - 99,23.85
+131,3.5,95,3000,8134,Rainstrasse 10,Adliswil,«Luxuriöse Wohnung in Adliswil»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,50 - 99,31.58
+131,1.5,61,1960,8134,Im Sihlhof 2,Adliswil,«Wohnen im Sihlhof 2 - Singles aufgepasst!»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,50 - 99,32.13
+131,3.5,71,1790,8134,Zelgstrasse 48,Adliswil,«Gemütlich 3.5-Zimmer-Wohnung in Adliswil»,Adliswil,18944,2438.0952380952,37.7850506757,7507.0,89522,0,50 - 99,25.21
+243,3.5,81,1900,8953,Steinmürlistrasse 42,Dietikon,«Attraktive Wohnung mit Cheminée»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,23.46
+243,3.5,92,2440,8953,Grünaustrasse 12,Dietikon,«Weissdornhof - die charmante Stadtwohnung in Dietikon»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,26.52
+243,1.5,61,1730,8953,Grünaustrasse 10,Dietikon,«Perfekt für Singles!»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,28.36
+243,2.0,38,1800,8953,Winzerstrasse 17,Dietikon,«PERFEKT FÜR SINGLES»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,0 - 49,47.37
+243,3.5,87,2190,8953,Alfred Comte-Strasse 3,Dietikon,«Wohnen in Bahnhofsnähe»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,25.17
+243,2.0,100,2220,8953,Überlandstr. 26,Dietikon,«Hier endet Ihre Wohnungssuche!»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,22.2
+243,3.5,79,2600,8953,Bleicherstrasse 43,Dietikon,"«Geräumige Dietikon 3.5 Zim.+ W/T, + Lag, über Blueground»",Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,32.91
+243,2.5,59,1660,8953,Zentralstr. 6,Dietikon,«Lassen Sie sich verzaubern!»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,28.14
+243,3.0,64,1500,8953,Steinmürlistrasse 3,Dietikon,«Ideal für Jung und Alt!»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,23.44
+243,3.5,89,2195,8953,Heimstrasse 12,Dietikon,"«Traumhafte Maisonette-Wohnung, Nähe Bahnhof»",Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,24.66
+243,3.5,87,1895,8955,Bohnäckerstr. 11,Oetwil an der Limmat,"«Besichtigungstermin: Mittwoch, 24.08.2022, 16.00 - 16.45 Uhr»",Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,21.78
+243,3.5,80,1974,8953,Webereistrasse 8,Dietikon,«Willkommen im Lindenhof!»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,24.68
+243,4.5,192,3400,8955,Rebackerstrasse 31,Oetwil an der Limmat,«Grosszügige Terrassenwohnung mit herrlicher Aussicht»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,100 - 500,17.71
+243,3.0,60,1490,8953,Lägernstrasse 20,Dietikon,«3-Zimmerwohnung mit Sitzplatz»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,24.83
+243,3.5,85,1820,8955,Limmatwiesenstr. 22,Oetwil an der Limmat,«Besichtigung: Freitag 2. September 2022»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,21.41
+243,3.5,87,2280,8953,Ueberlandstr. 14,Dietikon,«Moderne Wohnung mit Loggia»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,26.21
+243,3.5,93,2170,8953,Webereistrasse 3,Dietikon,«Weissdornhof - Heimelige 3.5-Zimmerwohnung in Dietikon»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,23.33
+243,3.0,55,1543,8953,Ueberlandstrasse 125,Dietikon,«Schön wohnen in Dietikon!»,Dietikon,27746,2970.6638115632,46.2264830967,18911.0,65532,0,50 - 99,28.05
+55,2.5,58,1540,8193,Zürcherstrasse 10,Eglisau,"«Ideal für Jung und Alt, Single- und Paarhaushalte»",Eglisau,5339,589.293598234,24.1430979584,1536.0,87906,0,50 - 99,26.55
+55,4.5,128,2245,8193,Sandgruebstrasse 9,Eglisau,«Platz für die ganze Familie»,Eglisau,5339,589.293598234,24.1430979584,1536.0,87906,0,100 - 500,17.54
+55,3.5,83,1940,8193,Zürcherstrasse 10,Eglisau,"«Ideal für Jung und Alt, Single- und Paarhaushalte»",Eglisau,5339,589.293598234,24.1430979584,1536.0,87906,0,50 - 99,23.37
+55,3.5,98,2450,8193,Alte Landstrasse 29c,Eglisau,"«3 ½ Zimmer-Wohnung, 8193 Eglisau»",Eglisau,5339,589.293598234,24.1430979584,1536.0,87906,0,50 - 99,25.0
+55,2.5,45,1240,8193,Zürcherstrasse 10,Eglisau,"«Ideal für Jung und Alt, Single- und Paarhaushalte»",Eglisau,5339,589.293598234,24.1430979584,1536.0,87906,0,0 - 49,27.56
+55,1.5,34,1040,8193,Zürcherstrasse 10,Eglisau,"«Ideal für Jung und Alt, Single- und Paarhaushalte»",Eglisau,5339,589.293598234,24.1430979584,1536.0,87906,0,0 - 49,30.59
+9,3.5,89,2080,8932,Pfruendmattstrasse 11,Mettmenstetten,«Komfortabel wohnen an idyllischer Lage»,Mettmenstetten,5200,399.07904835,14.7692307692,1680.0,93140,0,50 - 99,23.37
+9,2.5,74,2032,8932,Rossauerstrasse 25,Mettmenstetten,«Attikawohnung mit traumhafter Alpenkulisse»,Mettmenstetten,5200,399.07904835,14.7692307692,1680.0,93140,0,50 - 99,27.46
+9,3.0,54,1480,8932,Albisstrasse 11,Mettmenstetten,«Heimelige 3 Zimmer-Wohnung an zentraler Lage»,Mettmenstetten,5200,399.07904835,14.7692307692,1680.0,93140,0,50 - 99,27.41
+9,4.5,110,2160,8932,Obere Fischbachstrasse 14,Mettmenstetten,«Wunderschöne Wohnung an ruhiger Lage!»,Mettmenstetten,5200,399.07904835,14.7692307692,1680.0,93140,0,100 - 500,19.64
+158,2.5,58,1870,8712,Goethestr. 26,Stäfa,«mit Seesicht und in unmittelbarer Nähe von Einkaufsmöglichkeiten»,Stäfa,14718,1713.3876600699,19.3232776192,6193.0,103206,0,50 - 99,32.24
+158,3.0,77,1570,8712,Allenbergstrasse 25,Stäfa,«Helle 3 Zimmer-Wohnung in Stäfa mieten»,Stäfa,14718,1713.3876600699,19.3232776192,6193.0,103206,0,50 - 99,20.39
+158,3.5,76,2300,8713,Eichstrasse 87a,Uerikon,«Sanierte 3.5-Zimmerwohnung mit sonnigem Gartensitzplatz»,Stäfa,14718,1713.3876600699,19.3232776192,6193.0,103206,0,50 - 99,30.26
+158,5.5,105,2750,8712,Tödihof 1,Stäfa,«Wohlfühloase zu vermieten»,Stäfa,14718,1713.3876600699,19.3232776192,6193.0,103206,0,100 - 500,26.19
+158,4.0,88,2550,8712,Bahnhofstrasse 25,Stäfa,«4-Zimmerwohnung am Bahnhof Stäfa zu vermieten»,Stäfa,14718,1713.3876600699,19.3232776192,6193.0,103206,0,50 - 99,28.98
+158,5.5,150,4650,8712,Trübelstrasse 51,Stäfa,«Einmaliges Wohnerlebnis mit einer traumhaften Aussicht»,Stäfa,14718,1713.3876600699,19.3232776192,6193.0,103206,0,100 - 500,31.0
+158,3.5,80,1900,8712,Schwylerstr. 22,Stäfa,«Schöne und moderne 3.5 Zimmer Wohnung»,Stäfa,14718,1713.3876600699,19.3232776192,6193.0,103206,0,50 - 99,23.75
+158,2.5,83,2715,8712,Eichstrasse 34b,Stäfa,«Moderne Traumwohnung in Stäfa mit direktem Zugang zum Goetheweg!»,Stäfa,14718,1713.3876600699,19.3232776192,6193.0,103206,0,50 - 99,32.71
+199,3.5,70,1546,8605,Hauflandweg 18,Gutenswil,«Ruhig gelegene Liegenschaft»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,22.09
+199,4.0,80,1626,8604,Bachtelweg 9,Volketswil,«4 Zimmer in grüner Umgebung und nähe Einkaufszentrum»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,20.32
+199,4.0,80,1524,8604,Ifangstrasse 33,Volketswil,«Schöne 4-Zimmerwohnung zu vermieten»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,19.05
+199,3.5,100,1941,8605,Pfäffikerstrasse 119,Gutenswil,«Schöne 3.5-Zimmer-Wohnung an ruhiger Lage»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,19.41
+199,3.0,70,1490,8604,Ifangstrasse 48,Volketswil,«Wohnen in grüner Umgebung»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,21.29
+199,5.0,99,1840,8604,Sunnebüelstr. 41,Volketswil,«Helle Wohnung mit verglastem Balkon»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,18.59
+199,2.0,53,1061,8604,Säntisweg 5,Volketswil,«Wohnen mit Fernsicht»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,20.02
+199,2.0,72,1370,8605,Sagirain 2,Gutenswil,«kuschelige 2-Zimmer-Dachgeschosswohnung sucht neue Mieter»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,19.03
+199,1.0,35,995,8604,Säntisweg 3,Volketswil,«Die perfekte Singlewohnung»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,0 - 49,28.43
+199,3.0,77,1515,8604,Rigiweg 10,Volketswil,«Wohnung in Grüner Umgebung»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,19.68
+199,4.0,86,1790,8604,Sunnebüelstr. 25,Volketswil,«Helle Wohnung mit verglastem Balkon»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,20.81
+199,3.0,70,1512,8604,Ifangstrasse 50,Volketswil,«Wohnen in grüner Umgebung»,Volketswil,18640,1327.6353276353,24.597639485,11193.0,82135,0,50 - 99,21.6
+23,3.5,97,1755,8415,Brunnenrain 18,Berg am Irchel,«Überbauung Brunnenrain - Eine topmoderne Wohnung erwartet Sie»,Berg am Irchel,577,82.3109843081,8.8388214905,137.0,110218,0,50 - 99,18.09
+71,4.5,109,2380,8196,Dorfstrasse 31,Wil ZH,«Erstvermietung: Neubauwohnung im 2. Obergeschoss mit Balkon»,Wil (ZH),1474,164.6927374302,12.4151967436,543.0,92974,0,100 - 500,21.83
+71,3.5,102,2160,8196,Dorfstrasse 31,Wil ZH,«Erstvermietung: Neubauwohnung im 1. Obergeschoss mit Balkon»,Wil (ZH),1474,164.6927374302,12.4151967436,543.0,92974,0,100 - 500,21.18
+68,4.5,91,1750,8427,Im Riet 14,Freienstein,«Charmante Wohnung an idyllischer Lage»,Rorbas,2885,649.7747747748,28.0762564991,462.0,69847,0,50 - 99,19.23
+58,4.5,76,1650,8192,Eichhölzlistrasse 38,Glattfelden,«Dachgeschosswohnung und ein Paradies für Kinder»,Glattfelden,5217,424.1463414634,24.5351734713,1104.0,74507,0,50 - 99,21.71
+138,3.5,74,1715,8833,Bärenweidstrasse 12,Samstagern,«Grosszügige Wohnung an ruhiger Lage»,Richterswil,13632,1810.3585657371,19.4762323944,4293.0,90081,0,50 - 99,23.18
+138,4.5,81,1820,8805,Zugerstrasse 36,Richterswil,«4.5-ZIMMERWOHNUNG IM HOCHPARTERRE MIT SICHT AUF DEN ZÜRISEE»,Richterswil,13632,1810.3585657371,19.4762323944,4293.0,90081,0,50 - 99,22.47
+138,3.5,73,1786,8805,Bodenstrasse 21,Richterswil,«3.5-Zimmerwohnung an der Bodenstrasse 21 in Richterswil»,Richterswil,13632,1810.3585657371,19.4762323944,4293.0,90081,0,50 - 99,24.47
+138,4.5,150,3050,8833,Sternen 1,Samstagern,«AN RUHIGER LAGE IN NAHERHOLUNGSGEBIET»,Richterswil,13632,1810.3585657371,19.4762323944,4293.0,90081,0,100 - 500,20.33
+138,3.5,86,1950,8805,Feldstr. 19,Richterswil,«Wohnen an ruhiger Lage im schönen Richterswil»,Richterswil,13632,1810.3585657371,19.4762323944,4293.0,90081,0,50 - 99,22.67
+138,4.0,105,2020,8805,Reidholzstrasse 28a,Richterswil,«4.0-Zimmerwohnung befristet bis zum 15.02.2023»,Richterswil,13632,1810.3585657371,19.4762323944,4293.0,90081,0,100 - 500,19.24
+172,4.5,111,1980,8320,Obermülistrasse 39,Fehraltorf,«Ihre neue Wohlfühloase»,Fehraltorf,6485,684.7940865892,18.2266769468,4271.0,80449,0,100 - 500,17.84
+172,4.5,115,2450,8320,Grundstrasse 18,Fehraltorf,«Leben in einer wunderschönen Umgebung!»,Fehraltorf,6485,684.7940865892,18.2266769468,4271.0,80449,0,100 - 500,21.3
+172,4.5,114,2480,8320,Mülistrasse 17,Fehraltorf,«Grosszügige Wohnung mit grossem Balkon»,Fehraltorf,6485,684.7940865892,18.2266769468,4271.0,80449,0,100 - 500,21.75
+172,5.5,190,3450,8320,Am Wildbach 7,Fehraltorf,«Grosszügige 5.5 Zimmer Maisonette-Wohnung in Fehraltorf»,Fehraltorf,6485,684.7940865892,18.2266769468,4271.0,80449,0,100 - 500,18.16
+172,3.5,85,1850,8320,Am Burenbüel 7,Fehraltorf,«Super Lage/ Familien freundliche Umgebung»,Fehraltorf,6485,684.7940865892,18.2266769468,4271.0,80449,0,50 - 99,21.76
+172,4.5,115,2480,8320,Grundstrasse 24,Fehraltorf,"«""Leben im Dorf - nahe den Zentren""»",Fehraltorf,6485,684.7940865892,18.2266769468,4271.0,80449,0,100 - 500,21.57
+172,3.0,76,1495,8320,Mülistr. 2,Fehraltorf,«Moderne 3-Zimmerwohnung mit Balkon sucht Mieter!»,Fehraltorf,6485,684.7940865892,18.2266769468,4271.0,80449,0,50 - 99,19.67
+192,3.5,109,2690,8132,Büelstrasse 1,Egg b. Zürich,«3.5 Zimmer Wohnung in Egg bei Zürich»,Egg,8796,605.3682037164,19.9181446112,2469.0,94471,0,100 - 500,24.68
+192,3.5,81,1680,8132,Bächelacherstrasse 9,Hinteregg,«Wohnglück auf den ersten Blick»,Egg,8796,605.3682037164,19.9181446112,2469.0,94471,0,50 - 99,20.74
+192,4.0,96,1980,8132,Leestrasse 22,Egg b. Zürich,«Wohnung an grüner Lage»,Egg,8796,605.3682037164,19.9181446112,2469.0,94471,0,50 - 99,20.62
+192,5.5,170,2930,8132,Forchstrasse 185A,Hinteregg,«Teilsanierte Familienwohnung an zentraler Lage (170 m²)»,Egg,8796,605.3682037164,19.9181446112,2469.0,94471,0,100 - 500,17.24
+66,2.5,46,1630,8152,Boulevard Lilienthal 5,Opfikon,«Gemütliche Wohnung im Glattpark zu vermieten!»,Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,0 - 49,35.43
+66,4.5,115,5300,8152,Dufaux-Strasse 47,Opfikon,"«Luxus Opfikon 4.5 Zim.+W/T, +Lag.,2 Min. zum Markt, über Blueground»",Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,100 - 500,46.09
+66,4.5,107,2500,8152,Rosenstrasse 6,Glattbrugg,«Ihre Wohnung in einem ruhigen Quartier»,Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,100 - 500,23.36
+66,4.5,111,3500,8152,Dufaux-Strasse 60,Glattpark (Opfikon),"«Wohnkomfort, der kaum Wünsche offen lässt»",Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,100 - 500,31.53
+66,1.0,30,1300,8152,Riethofstrasse 10c,Glattbrugg,«Moderne 1-Zimmerwohnung mit hochwertigem Ausbau»,Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,0 - 49,43.33
+66,3.5,80,2187,8152,Giebeleichstr. 46,Glattbrugg,«moderne 3 1/2 Zr.-Wohnung in sehr gepflegtem Haus»,Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,50 - 99,27.34
+66,2.5,70,2990,8302,Waldeggweg 2a,Kloten,"«Möblierte (Business)-Apartments inkl. Pool, Fitness usw.»",Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,50 - 99,42.71
+66,3.5,75,2055,8152,Gartenstrasse 7,Glattbrugg,«Im Herzen von Glattbrugg»,Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,50 - 99,27.4
+66,3.0,80,1985,8152,Oberhauserstrasse 12,Glattbrugg,"«HELLE, MODERNE 3-ZIMMERWOHNUNG AN ZENTRALER LAGE»",Opfikon,21014,3759.2128801431,44.9129151994,19226.0,71979,0,50 - 99,24.81
+53,4.5,94,2010,8180,Frohburgweg 5,Bülach,«Ihr neues Zuhause in familienfreundlicher Überbauung»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,21.38
+53,3.5,85,2220,8180,Allmendstrasse 29,Bülach,"«Grösszügige und moderne Wohnung im Neubau ""Auf der Allmend"" in 8180 Bülach»",Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,26.12
+53,1.5,44,1595,8180,Allmendstrasse 29,Bülach,"«Modernes Wohnen im Neubau ""Auf der Allmend"" in 8180 Bülach»",Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,0 - 49,36.25
+53,1.5,69,1890,8180,Im Nippel 8,Bülach,«Ihr neues Zuhause mit grosszügiger Dachterrasse (40m2)!»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,27.39
+53,4.5,122,3200,8180,Sandstrasse 1,Bülach,«ERSTBEZUG MIT HOHEM AUSBAUSTANDARD»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,100 - 500,26.23
+53,5.5,121,2931,8180,Fangletenstrasse 16,Bülach,«Attraktive Wohnung im 3. OG an ruhiger Lage»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,100 - 500,24.22
+53,4.5,102,2625,8180,Allmendstrasse 27,Bülach,"«Erstbezug ""Auf der Allmend"" in Bülach. Grosszügiges & modernes Wohnen an zentraler Lage»",Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,100 - 500,25.74
+53,3.5,68,1530,8180,Handgasse 6,Bülach,«Ihr Wohn-(T)Raum»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,22.5
+53,3.5,66,1680,8180,Friedhofstr. 29,Bülach,«***Wohnung an ruhiger Lage***»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,25.45
+53,3.5,107,2725,8180,Lindenhofstrasse 4a,Bülach,«Topmoderne Attikawohnung zu vermieten»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,100 - 500,25.47
+53,4.5,148,2942,8180,Winterthurerstr. 11,Bülach,«Zeit für etwas Neues!»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,100 - 500,19.88
+53,1.5,26,1400,8180,Nordstrasse 15,Bülach,«Ideal für Pendler»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,0 - 49,53.85
+53,3.5,87,1990,8180,Gussstrasse 16,Bülach,«IM GUSS - Hallo schöner wohnen!»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,22.87
+53,4.5,117,3250,8180,Sandstrasse 1,Bülach,"«Erstbezug: 4.5-Zimmer-Wohnung im obersten Geschoss, Haus Oscar»",Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,100 - 500,27.78
+53,2.5,65,1880,8180,Allmendstrasse 29,Bülach,"«Lichtdurchflutete Gartenwohnung mit eigenem Sitzplatz im Neubau ""Auf der Allmend"" in 8180 Bülach»",Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,28.92
+53,3.5,97,2800,8180,Piazza Santeramo 1,Bülach,«ERSTBEZUG IM 17. STOCK»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,28.87
+53,4.5,87,1808,8180,Neugut 4,Bülach,"«Besichtigung: Freitag 02. September 2022, 17.00 - 17.30 Uhr»",Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,20.78
+53,4.5,96,2420,8180,Kaffeestrasse 15,Bülach,«Liebens Sie das Luxuriöse!»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,25.21
+53,4.5,93,2120,8180,Gussstrasse 46,Bülach,«IM GUSS - Leben in schöner Umgebung»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,22.8
+53,4.5,89,1730,8180,Moritz Meyer-Weg 11,Bülach,«Ihr neues Zuhause»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,19.44
+53,4.0,68,1590,8180,Handgasse 6,Bülach,«Ruhige Wohnlage!»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,50 - 99,23.38
+53,5.5,147,2950,8180,Südweg 6,Bülach,«moderne 5.5-Zimmer Wohnung zu vermieten»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,100 - 500,20.07
+53,5.5,137,2480,8180,Frohburgweg 13,Bülach,«Tolle Maisonettewohnung zentral am Bahnhof Bülach»,Bülach,21372,1328.2784338098,28.0320044919,10973.0,78194,0,100 - 500,18.1
+111,2.0,110,2150,8344,Pfarrhausstrasse 18a,Bäretswil,«EXKLUSIVES WOHNEN»,Bäretswil,5053,227.7151870212,10.1523847219,1647.0,77877,1,100 - 500,19.55
+54,3.5,85,1822,8305,Pappelstr. 22,Dietlikon,«zentrale 3.5-Zimmerwohnung»,Dietlikon,7847,1846.3529411765,25.7678093539,5808.0,82156,0,50 - 99,21.44
+54,4.5,102,2900,8305,Riedmühlestr. 7b,Dietlikon,«Ruhige und helle Wohnung an zentraler Lage»,Dietlikon,7847,1846.3529411765,25.7678093539,5808.0,82156,0,100 - 500,28.43
+96,4.5,106,2600,8105,Altburgstr. 19,Regensdorf,«Über den Dächern von Regensdorf!»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,100 - 500,24.53
+96,4.5,108,2670,8105,Schulstrasse 103,Regensdorf,«Moderne Wohnung in schöner Wohnanlage»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,100 - 500,24.72
+96,2.0,56,1685,8105,Altburgstr. 15,Regensdorf,«Ruhig aber trotzdem Zentral!»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,50 - 99,30.09
+96,4.5,112,2345,8105,Schulstrasse 175,Regensdorf,"«HELLE, GROSSE 4.5-ZIMMERWOHNUNG IN FAMILIENFREUNDLICHEM QUARTIER»",Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,100 - 500,20.94
+96,1.0,20,1100,8105,Moosäckerstrasse 72,Regensdorf,«1-Zimmer-Wohnung nähe Strassenverkehrsamt»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,0 - 49,55.0
+96,2.5,68,1740,8106,Rebrainstrasse 23,Adlikon b. Regensdorf,«Willkommen zu Hause!»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,50 - 99,25.59
+96,4.5,150,3690,8105,Dorfstrasse 57,Watt,«Sanierte Familienwohnung mit grossem Garten»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,100 - 500,24.6
+96,4.5,100,1781,8106,Steinstrasse 14,Adlikon b. Regensdorf,«In familienfreundlicher Umgebung»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,50 - 99,17.81
+96,2.0,56,1670,8105,Altburgstr. 19,Regensdorf,"«Nimm nicht einfach die Erstbeste, sondern als Erste schon die Beste.»",Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,50 - 99,29.82
+96,2.5,84,2090,8105,Feldstrasse 26,Regensdorf,"«Wohnen im Sophienpark - modern, sonnig, zentral»",Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,50 - 99,24.88
+96,2.5,77,2000,8106,Wehntalerstr. 321,Adlikon b. Regensdorf,«Balance - Die beste Art zu wohnen»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,50 - 99,25.97
+96,4.5,107,2460,8105,Altburgstr. 17,Regensdorf,«Hier endet Ihre Wohnungssuche.»,Regensdorf,18540,1268.1258549932,35.5717367853,11126.0,73522,0,100 - 500,22.99
+82,3.0,130,1940,8113,Unterdorfstrasse 1,Boppelsen,«Landhaus im idyllischen Dorf an ruhiger Lage»,Boppelsen,1432,361.6161616162,11.5921787709,318.0,120940,0,100 - 500,14.92
+242,4.5,98,2020,8903,Stallikonerstr. 107,Birmensdorf ZH,«MIETEN OHNE KAUTION - Ihr neues Zuhause in grüner Umgebung»,Birmensdorf (ZH),6724,588.7915936953,24.9256395003,2598.0,89088,0,50 - 99,20.61
+242,4.5,90,2730,8903,Panoramastrasse 3,Birmensdorf ZH,«Nur noch zwei freie 4.5-Zimmer-Wohnungen»,Birmensdorf (ZH),6724,588.7915936953,24.9256395003,2598.0,89088,0,50 - 99,30.33
+242,1.0,27,1100,8903,Stallikonerstrasse 64,Birmensdorf ZH,«In Stadtnähe»,Birmensdorf (ZH),6724,588.7915936953,24.9256395003,2598.0,89088,0,0 - 49,40.74
+242,3.5,90,2100,8903,Breitestr. 3,Birmensdorf ZH,"«Wohnen im Dorf - ruhig, ländlich, entspannt»",Birmensdorf (ZH),6724,588.7915936953,24.9256395003,2598.0,89088,0,50 - 99,23.33
+242,3.5,74,2030,8903,Zürcherstrasse 13,Birmensdorf ZH,«Top Qualität nach Umbau an bester zentraler Lage»,Birmensdorf (ZH),6724,588.7915936953,24.9256395003,2598.0,89088,0,50 - 99,27.43
+231,3.5,80,1850,8487,Unter-Rüti 2,Zell ZH,«3.5 Zimmer-Wohnung im Tösstal an ruhiger Lage»,Zell (ZH),6299,485.6592135698,22.3845054771,1476.0,69563,0,50 - 99,23.12
+90,3.5,88,1660,8155,Lindenstrasse 34,Niederhasli,«Helle 3.5-Zimmer Wohnung im 1. OG»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,50 - 99,18.86
+90,3.0,63,1855,8155,Langackerweg 13,Niederhasli,«Hier endet Ihre Wohnungssuche!»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,50 - 99,29.44
+90,4.5,114,2410,8156,Sandrainstrasse 6,Oberhasli,«Grosszügige Familienwohnung zu vermieten»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,100 - 500,21.14
+90,3.5,88,1750,8155,Heiselstrasse 120,Niederhasli,«Zwischen Lägern und Mettmenhaslisee»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,50 - 99,19.89
+90,3.5,79,1845,8155,Lindenstrasse 32,Niederhasli,«Helle und moderne Wohnung zu vermieten!»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,50 - 99,23.35
+90,3.5,88,1750,8155,Möslistrasse 40,Niederhasli,«Naherholungsgebiet am Fuss der Lägern»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,50 - 99,19.89
+90,2.0,49,1510,8155,Langackerweg 13,Niederhasli,«Ihr Wohnglück!»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,0 - 49,30.82
+90,4.5,120,1990,8155,Haagächerstrasse 12,Niederhasli,«4.5-Zimmer-Mais.-Wohnung Dachgeschoss»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,100 - 500,16.58
+90,1.0,32,1065,8155,Langackerweg 13,Niederhasli,«Perfekt Singlewohnung»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,0 - 49,33.28
+90,4.5,107,2090,8155,Gewerbestrasse 19,Niederhasli,«Grosszügige Familienwohnung mit sonnigem Balkon»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,100 - 500,19.53
+90,3.5,82,1800,8155,Lindenstrasse 28,Niederhasli,«Moderne Wohnung mit grossem Balkon an sonniger Lage zu vermieten!»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,50 - 99,21.95
+90,3.5,65,1520,8155,Noeschikonerstr. 24,Niederhasli,«Moderne Wohnung an sonniger Lage»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,50 - 99,23.38
+90,4.5,117,2180,8155,Gewerbestrasse 21,Niederhasli,«Grosszügige Familienwohnung mit sonnigem Balkon»,Niederhasli,9345,826.9911504425,25.7998929909,2505.0,72919,0,100 - 500,18.63
+191,2.5,95,2790,8600,Rechweg 14,Dübendorf,«Neue 2.5 Zimmer Attika-Maisonette-Wohnung im Zentrum»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,50 - 99,29.37
+191,3.5,167,4750,8600,Wilstrasse 2,Dübendorf,«EINMALIGES PENTHOUSE MIT TRAUMAUSSICHT»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,100 - 500,28.44
+191,2.5,95,2790,8600,Rechweg 14,Dübendorf,«WUNDERBAR UND GROSSZÜGIG AN STILLGELEGTEM FLUGPLATZ»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,50 - 99,29.37
+191,3.5,82,2260,8600,Am Giessenpark 15,Dübendorf,«Wohnen im aufstrebenden Giessenpark»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,50 - 99,27.56
+191,3.5,102,2580,8600,Am Giessenpark 11,Dübendorf,«Urbanes Wohnen»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,100 - 500,25.29
+191,5.5,123,3110,8600,Am Giessenpark 1,Dübendorf,«Wohnen im aufstrebenden Giessenpark»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,100 - 500,25.28
+191,4.5,114,2669,8600,Überlandstrasse 206,Dübendorf,«Ihre Wohnung - Ihr Paradies»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,100 - 500,23.41
+191,3.5,79,1940,8600,Zipartenstr. 45,Dübendorf,«Hier blüht Dir was! Tolle Wohnung hip und schick saniert»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,50 - 99,24.56
+191,3.5,68,1670,8600,Höglerstrasse 43,Dübendorf,«Praktische 3.5-Zimmerwohnung mit Südbalkon in gepflegter Überbauung»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,50 - 99,24.56
+191,2.5,53,1390,8600,Kunklerstrasse 34,Dübendorf,«2.5- Zimmerwohnung mit Charme»,Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,50 - 99,26.23
+191,5.0,130,2390,8600,Oberdorfstr. 98,Dübendorf,"«Besichtigung: Montag, 5. September 2022, 17.00 - 18.00 Uhr»",Dübendorf,29303,2151.4684287812,35.9451250725,20104.0,79563,0,100 - 500,18.38
+141,5.5,128,3300,8800,Seestrasse 33,Thalwil,«Befristet: Charmante 5.5-Zimmerwohnung mit Blick auf den Zürichsee»,Thalwil,18139,3298.0,29.0313688737,6582.0,113194,0,100 - 500,25.78
+141,4.0,76,2850,8800,Im Lingg 2,Thalwil,«Moderne Maisonettewohnung mit Gartensitzplatz»,Thalwil,18139,3298.0,29.0313688737,6582.0,113194,0,50 - 99,37.5
+250,4.5,86,2110,8902,Bahnhofstr. 59,Urdorf,«Willkommen zu Hause..»,Urdorf,9981,1316.7546174143,24.9273619878,6398.0,77164,0,50 - 99,24.53
+250,1.0,26,1100,8953,Zürcherstrasse 236,Dietikon,«Exklusives Studio - mit riesiger Terrasse»,Urdorf,9981,1316.7546174143,24.9273619878,6398.0,77164,0,0 - 49,42.31
+250,4.5,82,1860,8902,In der Fadmatt 59,Urdorf,«Wohnen an zentraler Lage»,Urdorf,9981,1316.7546174143,24.9273619878,6398.0,77164,0,50 - 99,22.68
+250,2.5,62,2030,8902,Bachstrasse 13,Urdorf,«Wohlfühloase für Ihre Bedürfnisse - *Wohnen ab 65 Jahren*»,Urdorf,9981,1316.7546174143,24.9273619878,6398.0,77164,0,50 - 99,32.74
+87,2.5,80,2100,8115,Otelfingerstrasse,Hüttikon,«ERSTVERMIETUNG: Ihr neues zu Hause im Herzen von Hüttikon»,Hüttikon,952,598.7421383648,15.8613445378,129.0,96419,0,50 - 99,26.25
+87,3.5,136,2700,8115,Zürcherstrasse 19,Hüttikon,«ERSTVERMIETUNG: Ihr neues zu Hause im Herzen von Hüttikon»,Hüttikon,952,598.7421383648,15.8613445378,129.0,96419,0,100 - 500,19.85
+213,3.5,85,2290,8311,Zelglistrasse 9,Brütten,«Moderne 3.5-Zimmerwohnung im Eigentumsstandard zu vermieten»,Brütten,2067,313.1818181818,7.5471698113,388.0,102330,0,50 - 99,26.94
+213,3.5,89,2250,8311,Brühlstrasse 4,Brütten,«Erstvermietung - modernes Wohnen in Brütten»,Brütten,2067,313.1818181818,7.5471698113,388.0,102330,0,50 - 99,25.28
+56,4.5,104,2207,8424,Pfarrhausstrasse 28,Embrach,«moderne 4.5-Zimmer-Wohnung zu vermieten»,Embrach,9421,741.811023622,28.0437320879,3591.0,73330,0,100 - 500,21.22
+56,2.5,71,1199,8424,Dorfstrasse 111,Embrach,«2.5-Zimmerwohnung 2.OG»,Embrach,9421,741.811023622,28.0437320879,3591.0,73330,0,50 - 99,16.89
+56,3.5,80,1655,8424,Stationsstrasse 62,Embrach,«Grosszügige 3.5 Zi-Wohnung an ruhiger Lage»,Embrach,9421,741.811023622,28.0437320879,3591.0,73330,0,50 - 99,20.69
+56,4.5,98,1940,8424,Wildbachstrasse 17,Embrach,«An ruhiger Lage im Grünen»,Embrach,9421,741.811023622,28.0437320879,3591.0,73330,0,50 - 99,19.8
+56,4.5,100,1944,8424,Wildbachstrasse 21,Embrach,«Wohnen am Wildbach»,Embrach,9421,741.811023622,28.0437320879,3591.0,73330,0,50 - 99,19.44
+56,4.5,147,2500,8424,Hardstr. 26,Embrach,«***Jetzt bewerben!***»,Embrach,9421,741.811023622,28.0437320879,3591.0,73330,0,100 - 500,17.01
+27,5.0,95,1650,8245,Kirchstrasse 19,Feuerthalen,«Raum für die ganze Familie»,Feuerthalen,3614,1457.2580645161,22.4958494743,1165.0,76356,0,50 - 99,17.37
+27,2.5,55,995,8246,Hauptstrasse 72,Langwiesen,«Gemütliche Wohnlage Nähe Rhein»,Feuerthalen,3614,1457.2580645161,22.4958494743,1165.0,76356,0,50 - 99,18.09
+27,4.5,95,1535,8246,Forenackerstrasse 6,Langwiesen,«Ruhige Wohnung in Langwiesen»,Feuerthalen,3614,1457.2580645161,22.4958494743,1165.0,76356,0,50 - 99,16.16
+27,4.5,86,1690,8245,Bahnhofstrasse 83,Feuerthalen,"«""Wohnen mit Blick ins Grüne""»",Feuerthalen,3614,1457.2580645161,22.4958494743,1165.0,76356,0,50 - 99,19.65
+120,4.0,73,1370,8637,Speerstrasse 12,Laupen ZH,«Charmante Wohnung zu vermieten»,Wald (ZH),10096,399.525128611,26.5649762282,3460.0,66453,0,50 - 99,18.77
+120,3.0,50,1195,8636,Schibliraiweg 11,Wald ZH,"«HELLE 3 ZIMMERWOHNUNG IN WALD, ZÜRICH ZU VERMIETEN»",Wald (ZH),10096,399.525128611,26.5649762282,3460.0,66453,0,0 - 49,23.9
+120,1.5,269,2976,8636,Neutalstrasse 18,Wald ZH,«Lichtdurchflutete Loft»,Wald (ZH),10096,399.525128611,26.5649762282,3460.0,66453,0,100 - 500,11.06
+193,3.5,100,2700,8117,Maurstrasse 2,Fällanden,«Einzigartige Wohnung an zentraler Lage»,Fällanden,8689,1361.9122257053,24.2145241109,2946.0,90510,0,50 - 99,27.0
+193,3.5,93,2057,8117,Zilstr. 7,Fällanden,«Ländlich und doch stadtnah!»,Fällanden,8689,1361.9122257053,24.2145241109,2946.0,90510,0,50 - 99,22.12
+193,4.0,84,1780,8117,im Haufland 2,Fällanden,«Gemütliche 4-Zimmer-Wohnung zu vermieten!»,Fällanden,8689,1361.9122257053,24.2145241109,2946.0,90510,0,50 - 99,21.19
+193,2.5,57,1890,8118,Zürichstrasse 82,Pfaffhausen,«Feldhof - Stillvoll. Ländlich. Lebenswert.»,Fällanden,8689,1361.9122257053,24.2145241109,2946.0,90510,0,50 - 99,33.16
+193,3.5,93,2050,8117,im Haufland 7,Fällanden,«Grosszügige Wohnung zu gutem Mietzins!»,Fällanden,8689,1361.9122257053,24.2145241109,2946.0,90510,0,50 - 99,22.04
+193,3.5,78,2450,8118,Zürichstrasse 82,Pfaffhausen,«Feldhof - Stillvoll. Ländlich. Lebenswert.»,Fällanden,8689,1361.9122257053,24.2145241109,2946.0,90510,0,50 - 99,31.41
+296,1.0,27,1080,8307,Waidstrasse 3,Effretikon,«Charmante Wohnung an zentraler Lage!»,Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,0 - 49,40.0
+296,3.5,80,2530,8307,Rebenstrasse 42,Effretikon,"«Erstvermietung Reben 42, Effretikon»",Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,50 - 99,31.62
+296,3.5,73,2580,8307,Rebenstrasse 42,Effretikon,"«Erstvermietung Reben 42, Effretikon»",Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,50 - 99,35.34
+296,4.5,104,2105,8308,Am Dorfbach 19,Illnau,«Platz für die ganze Familie»,Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,100 - 500,20.24
+296,4.5,104,2152,8308,Am Dorfbach 17,Illnau,«Wohnen an ruhiger und dennoch zentraler Lage»,Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,100 - 500,20.69
+296,1.0,26,1055,8307,Schlimpergstrasse 16,Effretikon,«Ruhig und doch zentral - einfach toll!»,Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,0 - 49,40.58
+296,2.5,69,1510,8307,Lindenstrasse 25,Effretikon,«Nähe Waldrand in Effretikon»,Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,50 - 99,21.88
+296,3.5,93,2200,8483,Seemerrütiweg 4,Kollbrunn,«LICHTDURCHFLUTET AN ZENTRALER LAGE»,Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,50 - 99,23.66
+296,3.5,73,2480,8307,Rebenstrasse 42,Effretikon,"«Erstvermietung Reben 42, Effretikon»",Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,50 - 99,33.97
+296,4.5,104,3000,8307,Würglenstrasse 20,Effretikon,«4.5 Zimmer Neubauwohnung»,Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,100 - 500,28.85
+296,3.5,89,2340,8307,Florastrasse 4,Effretikon,"«Exklusive 3,5-Zimmerwohnung!»",Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,50 - 99,26.29
+296,4.0,70,1911,8307,Vogelsangstrasse 4,Effretikon,«Ruhige und dennoch zentrale Lage»,Illnau-Effretikon,17333,526.678821027,27.4159118445,6954.0,73095,0,50 - 99,27.3
+117,2.5,66,1883,8340,Dürntnerstrasse 43a,Hinwil,«Bijou über den Dächern von Hinwil»,Hinwil,11277,506.1490125673,17.105613195,6999.0,72124,0,50 - 99,28.53
+117,3.5,100,1890,8340,Rütibach 11,Hinwil,«Gemütliche Dachwohnung»,Hinwil,11277,506.1490125673,17.105613195,6999.0,72124,0,50 - 99,18.9
+117,3.5,100,1855,8340,Rütibach 11,Hinwil,«Helle Dachwohnung mit grossem Balkon»,Hinwil,11277,506.1490125673,17.105613195,6999.0,72124,0,50 - 99,18.55
+117,3.5,73,1630,8340,Brandstr. 5,Hinwil,«MIETEN OHNE KAUTION - Nähe Bahnhof und Einkaufsmöglichkeiten»,Hinwil,11277,506.1490125673,17.105613195,6999.0,72124,0,50 - 99,22.33
+117,4.5,88,1880,8340,Brandstr. 7,Hinwil,«Mieten ohne Kaution - grosszügige Wohnung an kinderfreundlicher Liegenschaft»,Hinwil,11277,506.1490125673,17.105613195,6999.0,72124,0,50 - 99,21.36
+83,3.5,114,1986,8107,Badenerstrasse 9,Buchs ZH,«Entspannen Sie sich in unserer heimeligen Wohnung - Mitten im Dorfkern»,Buchs (ZH),6565,1124.1438356164,26.0472201066,2327.0,77391,0,100 - 500,17.42
+83,3.5,70,1570,8107,Meierwiesenstr. 39,Buchs ZH,«Geräumige Wohnung an sonniger Lage»,Buchs (ZH),6565,1124.1438356164,26.0472201066,2327.0,77391,0,50 - 99,22.43
+298,4.5,124,3070,8544,Hauptstrasse 1d,Attikon,«Mietwohnungen im Eigentumsstandard bieten jeglichen Komfort»,Wiesendangen,6594,343.9749608764,8.932362754,1573.0,85661,0,100 - 500,24.76
+298,3.5,109,2750,8544,Hauptstrasse 1e,Attikon,«Mietwohnungen im Eigentumsstandard bieten jeglichen Komfort»,Wiesendangen,6594,343.9749608764,8.932362754,1573.0,85661,0,100 - 500,25.23
+298,4.5,110,2210,8542,Breitackerstrasse 31,Wiesendangen,«Schöne Wohnung mit grossem Balkon»,Wiesendangen,6594,343.9749608764,8.932362754,1573.0,85661,0,100 - 500,20.09
+298,2.5,67,1600,8543,Hauptstrasse 4,Gundetswil,"«Schöne 2,5 Zimmer-Wohnung»",Wiesendangen,6594,343.9749608764,8.932362754,1573.0,85661,0,50 - 99,23.88
+298,4.5,110,2080,8542,Breitackerstrasse 34,Wiesendangen,«Frisch renovierte schöne Familienwohnung»,Wiesendangen,6594,343.9749608764,8.932362754,1573.0,85661,0,100 - 500,18.91
+113,4.5,120,2100,8635,Rothausstrasse 13,Dürnten,«Wohnung mit toller Aussicht»,Dürnten,7606,744.2270058708,18.3933736524,1836.0,74686,0,100 - 500,17.5
+113,4.5,99,1940,8632,Baumgarten 4,Tann,«4.5-Zimmerwohnung im Grünen zu vermieten»,Dürnten,7606,744.2270058708,18.3933736524,1836.0,74686,0,50 - 99,19.6
+249,2.5,53,2240,8103,Bergstrasse 7,Unterengstringen,«Wunderschöne Attika: Belano Zuhause in Unterengstringen»,Unterengstringen,3934,1177.8443113773,25.8261311642,1000.0,96737,0,50 - 99,42.26
+249,1.5,33,1520,8103,Bergstrasse 5,Unterengstringen,"«Belano Zuhause in Unterengstringen - Wohnen mit Freiheit, Genuss und Service.»",Unterengstringen,3934,1177.8443113773,25.8261311642,1000.0,96737,0,0 - 49,46.06
+249,2.5,59,2290,8103,Bergstrasse 7,Unterengstringen,"«Belano Zuhause in Unterengstringen - Wohnen mit Freiheit, Genuss und Service.»",Unterengstringen,3934,1177.8443113773,25.8261311642,1000.0,96737,0,50 - 99,38.81
+249,4.5,190,4500,8103,Büelstrasse 30,Unterengstringen,«Grosse 4.5 Zimmer-Wohnung an zentraler und ruhiger Lage»,Unterengstringen,3934,1177.8443113773,25.8261311642,1000.0,96737,0,100 - 500,23.68
+249,3.5,103,2385,8103,Langacherstrasse 16,Unterengstringen,«Idyllische Wohnung mitten im Grünen»,Unterengstringen,3934,1177.8443113773,25.8261311642,1000.0,96737,0,100 - 500,23.16
+102,3.0,88,1650,8187,Trottenstrasse 11,Weiach,"«LÄNDLICH, STEUERFREUNDLICH UND ZENTRAL»",Weiach,1903,198.643006263,26.1166579086,290.0,68959,0,50 - 99,18.75
+102,4.0,140,1800,8187,Stadlerstrasse 4,Weiach,«GROSSZÜGIG MIT HERRLICHER WEITSICHT»,Weiach,1903,198.643006263,26.1166579086,290.0,68959,0,100 - 500,12.86
+115,1.0,12,550,8625,Rebhaldenstrasse 71,Gossau ZH,«WG-Zimmer in Villa mit grossem Garten»,Gossau (ZH),10280,562.9791894852,14.5719844358,2675.0,80977,0,0 - 49,45.83
+115,3.5,90,1845,8625,Im Eich 2,Gossau ZH,«NachmieterIn für schöne 3 1/2 Zimmerwohnung gesucht in Gossau ZH»,Gossau (ZH),10280,562.9791894852,14.5719844358,2675.0,80977,0,50 - 99,20.5
+115,1.0,21,910,8625,Rebhaldenstrasse 71,Gossau ZH,«WG-Zimmer (3-OG2) in einzigartiger Villa mit grossem Garten»,Gossau (ZH),10280,562.9791894852,14.5719844358,2675.0,80977,0,0 - 49,43.33
+115,4.5,87,1620,8624,Im Zelgli 12,Grüt (Gossau ZH),«Platz für die ganze Familie»,Gossau (ZH),10280,562.9791894852,14.5719844358,2675.0,80977,0,50 - 99,18.62
+115,4.5,100,2100,8625,Tannenbergstrasse 58,Gossau ZH,«Helle und freundliche 4.5 Zimmerwohnung nahe Badi Gossau ZH»,Gossau (ZH),10280,562.9791894852,14.5719844358,2675.0,80977,0,50 - 99,21.0
+115,1.0,30,1130,8625,Rebhaldenstrasse 71,Gossau ZH,«WG-Zimmer in wunderschöner Villa»,Gossau (ZH),10280,562.9791894852,14.5719844358,2675.0,80977,0,0 - 49,37.67
+115,4.5,135,2850,8624,Lindenhofstrasse 10A,Grüt (Gossau ZH),«BEFRISTETES WOHNEN MIT CHEMINÉE»,Gossau (ZH),10280,562.9791894852,14.5719844358,2675.0,80977,0,100 - 500,21.11
+161,2.0,100,2080,8125,Oberhubstrasse 24,Zollikerberg,«Wunderschönes WG-Zimmer (2 Räume) mit eigenem Badezimmer»,Zollikon,13067,1664.5859872612,26.0580087243,5764.0,171602,0,50 - 99,20.8
+161,4.5,122,3680,8702,Hinter Zünen 11,Zollikon,«SCHÖNE WOHNUNG AN GUTER LAGE»,Zollikon,13067,1664.5859872612,26.0580087243,5764.0,171602,0,100 - 500,30.16
+161,4.5,97,2260,8125,Am Brunnenbächli 28,Zollikerberg,«Befristete Wohnung in Zollikerberg zu vermieten»,Zollikon,13067,1664.5859872612,26.0580087243,5764.0,171602,0,50 - 99,23.3
+161,2.5,56,1895,8125,Rüterwiesstrasse 7,Zollikerberg,«Ihr neues Zuhause am Zollikerberg!»,Zollikon,13067,1664.5859872612,26.0580087243,5764.0,171602,0,50 - 99,33.84
+225,3.5,82,2020,8545,Kellersgasse 6,Rickenbach ZH,«Attraktive Dachwohnung»,Rickenbach (ZH),2749,456.6445182724,11.8224809021,552.0,76514,0,50 - 99,24.63
+2,3.5,85,1975,8909,Hofibachstrasse 3,Zwillikon,«Historische Wohnung anno 1816 oekologisch Renoviert»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,23.24
+2,4.5,93,1980,8910,Zeughausstr. 29a,Affoltern am Albis,«Ihr neues Zuhause»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,21.29
+2,4.5,100,2330,8910,Obere Bahnhofstrasse 21,Affoltern am Albis,«GROSSZÜGIG UND AN ZENTRALER LAGE»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,23.3
+2,3.5,67,1419,8910,Alte Hedingerstrasse 7,Affoltern am Albis,«ruhige 3.5 Zimmerwohnung»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,21.18
+2,2.5,65,1560,8910,Centralweg 8,Affoltern am Albis,«Wohnen an bevorzugter Lage!»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,24.0
+2,3.5,103,2825,8910,Alte Kanzleistrasse 11,Affoltern am Albis,«Moderne 3.5 Zimmer-Attikawohnung mit grosser Terrasse»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,100 - 500,27.43
+2,3.0,65,1440,8910,Sonnenbergstrasse 4,Affoltern am Albis,«Ihr neues Zuhause mit Weitsicht»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,22.15
+2,3.5,78,1830,8910,Zeughausstr. 27a,Affoltern am Albis,«Ihre Traumwohnung»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,23.46
+2,3.5,79,2210,8910,Bahnhofplatz 5a,Affoltern am Albis,«Attikawohnung mit schöner Terrasse»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,27.97
+2,3.5,78,1835,8910,Zeughausstr. 29b,Affoltern am Albis,«Endlich meine Wohnung»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,50 - 99,23.53
+2,2.0,47,1445,8910,Zürichstr. 106,Affoltern am Albis,«MIETEN OHNE KAUTION - Erster Monat mietfrei Wohnen an zentraler Lage»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,0 - 49,30.74
+2,6.5,194,4760,8910,Oberdorfstrasse 4,Affoltern am Albis,«Grossfamilie oder Wohngemeinschaft - Hier sind Sie richtig!»,Affoltern am Albis,12303,1161.7563739377,28.7003169959,6920.0,72583,0,100 - 500,24.54
+52,4.5,148,2185,8303,Spranglenstr. 32,Bassersdorf,«Übergangslösung gesucht?»,Bassersdorf,11824,1309.4130675526,24.949255751,4597.0,79477,0,100 - 500,14.76
+52,3.5,96,1600,8303,Spranglenstr. 34,Bassersdorf,«Erdgeschosswohnung befristet bis 29. Februar 2024»,Bassersdorf,11824,1309.4130675526,24.949255751,4597.0,79477,0,50 - 99,16.67
+176,3.5,111,2250,8317,Hofwisenstr. 2,Tagelswangen,«Geniessen - Leben - Relaxen! Schöne Maisonettewohnung wartet auf Sie!»,Lindau,5605,467.4728940784,20.8206958073,2802.0,88191,0,100 - 500,20.27
+176,2.5,70,2130,8317,Huebstrasse 21,Tagelswangen,«Ein glücklicher Wohnungsstart»,Lindau,5605,467.4728940784,20.8206958073,2802.0,88191,0,50 - 99,30.43
+8,4.0,96,1660,8933,Unterdorfstrasse 3,Maschwanden,«Maisonett in der Scheune»,Maschwanden,645,137.526652452,12.8682170543,175.0,72226,0,50 - 99,17.29
+8,3.0,110,2190,8933,Unterdorfstrasse 3,Maschwanden,«MODERNES WOHNEN IN LÄNDLICHER UMGEBUNG»,Maschwanden,645,137.526652452,12.8682170543,175.0,72226,0,100 - 500,19.91
+247,4.5,109,2670,8952,Badenerstrasse 110,Schlieren,"«Städtisch, bunt, sympathisch: Die Stadtsiedlung Reitmen»",Schlieren,18791,2851.4415781487,46.1178223618,18945.0,65678,0,100 - 500,24.5
+247,2.5,53,1320,8952,Dörnliackerstrasse 3,Schlieren,«Charmante 2.5-Zimmerwohnung»,Schlieren,18791,2851.4415781487,46.1178223618,18945.0,65678,0,50 - 99,24.91
+247,4.5,109,2680,8952,Badenerstrasse 110,Schlieren,«Willkommen in der Stadtsiedlung Reitmen»,Schlieren,18791,2851.4415781487,46.1178223618,18945.0,65678,0,100 - 500,24.59
+247,5.5,144,3150,8952,Goldschlägistrasse 12,Schlieren,«Grosszügige und moderne 5.5-Zimmerwohnung an gut erschlossener Lage»,Schlieren,18791,2851.4415781487,46.1178223618,18945.0,65678,0,100 - 500,21.88
+64,2.5,64,1600,8309,Breitenloostrasse 6,Nürensdorf,«hell - ruhig - modern»,Nürensdorf,5602,557.96812749,16.8154230632,1031.0,99047,0,50 - 99,25.0
+97,3.5,67,1850,8153,Bahnhofstrasse 21,Rümlang,"«HELLE, NEU SANIERTE 3.5-ZIMMERWOHNUNG»",Rümlang,8233,663.4165995165,29.819021013,6277.0,71944,0,50 - 99,27.61
+97,4.5,89,2095,8153,Ifangstrasse 71,Rümlang,«Mieten ohne Kaution!»,Rümlang,8233,663.4165995165,29.819021013,6277.0,71944,0,50 - 99,23.54
+152,3.0,94,2405,8704,Pfarrgasse 34,Herrliberg,«Schöne Wohnung an guter Lage»,Herrliberg,6460,718.5761957731,22.4458204334,1413.0,193412,0,50 - 99,25.59
+153,4.5,116,2550,8634,Etzelstrasse 13,Hombrechtikon,«Moderne 4.5-Zimmer-Wohnung mit grosszügigem Balkon»,Hombrechtikon,8775,720.4433497537,20.6723646724,2910.0,79414,0,100 - 500,21.98
+153,2.5,84,2300,8714,Seestrasse 2,Feldbach,«2.5-Maisonette-Wohnung mit privatem Seezugang»,Hombrechtikon,8775,720.4433497537,20.6723646724,2910.0,79414,0,50 - 99,27.38
+153,2.5,71,1600,8634,Im Zentrum 8,Hombrechtikon,«Ihr neues Zuhause»,Hombrechtikon,8775,720.4433497537,20.6723646724,2910.0,79414,0,50 - 99,22.54
+153,5.5,105,2170,8634,Heusserstrasse 7,Hombrechtikon,"«Attraktive Wohnung an schöner Lage, nahe des Lützelsees inkl. ein Gratismonat»",Hombrechtikon,8775,720.4433497537,20.6723646724,2910.0,79414,0,100 - 500,20.67
+153,3.5,69,1510,8634,Eilweg 4,Hombrechtikon,«Erdgeschosswohnung in familienfreundlichem Quartier»,Hombrechtikon,8775,720.4433497537,20.6723646724,2910.0,79414,0,50 - 99,21.88
+153,3.5,96,2260,8634,Feldbachstrasse 72,Hombrechtikon,«Schöne 3.5-Zimmer-Maisonette-Wohnung mit sonnigem Balkon»,Hombrechtikon,8775,720.4433497537,20.6723646724,2910.0,79414,0,50 - 99,23.54
+154,1.5,56,2775,8700,Fähnlibrunnenstrasse 5,Küsnacht ZH,"«Bereit für Ihre nächste Station? ""LifeStation""!»",Küsnacht (ZH),14564,1178.3171521036,26.5037077726,6401.0,188407,0,50 - 99,49.55
+154,3.5,170,5550,8700,Birkenweg 8,Küsnacht ZH,«Traumwohnung mit Weitsicht»,Küsnacht (ZH),14564,1178.3171521036,26.5037077726,6401.0,188407,0,100 - 500,32.65
+154,5.0,146,5730,8700,Sonnenrain 10,Küsnacht ZH,«TRAUMHAFTE OASE MIT UMSCHWUNG»,Küsnacht (ZH),14564,1178.3171521036,26.5037077726,6401.0,188407,0,100 - 500,39.25
+224,3.5,92,1790,8422,Vorbruggenstrasse 5,Pfungen,«Charmante Dachwohnung im Naherholungsgebiet Töss»,Pfungen,3900,781.5631262525,24.8461538462,1400.0,71575,0,50 - 99,19.46
+224,5.5,175,2490,8413,Rankstr. 14,Neftenbach,«Grosszügige Maisonettewohnung an ruhiger Lager»,Pfungen,3900,781.5631262525,24.8461538462,1400.0,71575,0,100 - 500,14.23
+224,4.5,161,2690,8422,Hinterdorfstrasse 8,Pfungen,«4½-Zimmer-Wohnung im Dorfkern»,Pfungen,3900,781.5631262525,24.8461538462,1400.0,71575,0,100 - 500,16.71
+224,2.5,65,1590,8422,Vorbruggenstr. 20,Pfungen,«Meine Wohnung. Mein Paradies!»,Pfungen,3900,781.5631262525,24.8461538462,1400.0,71575,0,50 - 99,24.46
+224,4.5,130,2950,8422,Dättlikonerstrasse 16,Pfungen,«GROSSE FANTASTISCHE TERRASSEN-ATTIKA-WOHNUNG»,Pfungen,3900,781.5631262525,24.8461538462,1400.0,71575,1,100 - 500,22.69
+224,4.5,109,2190,8422,Vorbruggenstr. 26,Pfungen,«Attraktive Wohnung an bester Lage!»,Pfungen,3900,781.5631262525,24.8461538462,1400.0,71575,0,100 - 500,20.09
+228,3.5,100,1889,8488,Niederdorfweg 4,Turbenthal,«Ganz schön gross - 3 1/2 - Zimmerwohnung - ca. 100 m2»,Turbenthal,4883,193.6161776368,20.540651239,1631.0,65880,0,50 - 99,18.89
+67,3.5,77,1690,8197,Hegi 6,Rafz,«CHARMANT MIT HOLZELEMENTEN»,Rafz,4661,436.4232209738,22.2484445398,1363.0,77517,0,50 - 99,21.95
+67,4.5,113,2040,8197,Baumschuelwäg 23,Rafz,«Wohnen im grünen Rafz»,Rafz,4661,436.4232209738,22.2484445398,1363.0,77517,0,100 - 500,18.05
+67,3.5,94,1790,8197,Baumschuelwäg 1,Rafz,«Wohnung mit perfekter Anbindung in alle Richtungen»,Rafz,4661,436.4232209738,22.2484445398,1363.0,77517,0,50 - 99,19.04
+67,3.5,66,1580,8197,Geissewinkel 1,Rafz,«Wohnen im Herzen von Rafz»,Rafz,4661,436.4232209738,22.2484445398,1363.0,77517,0,50 - 99,23.94
+25,5.5,163,2600,8447,Rheinfallstrasse 1,Dachsen,«Wohnen wie im Mehrfamilienhaus»,Dachsen,1916,709.6296296296,13.3089770355,455.0,81505,0,100 - 500,15.95
+25,2.5,65,1550,8447,Rheinfallstrasse 1,Dachsen,«Moderne Attikawohnung an ruhiger Wohnlage»,Dachsen,1916,709.6296296296,13.3089770355,455.0,81505,0,50 - 99,23.85
+25,3.5,63,1240,8447,Feldeggstrasse 2,Dachsen,«Im Zürcher Weinland - Region Rheinfall»,Dachsen,1916,709.6296296296,13.3089770355,455.0,81505,0,50 - 99,19.68
+100,3.5,79,1840,8174,Buechenstrasse 14,Stadel b. Niederglatt,«Wohnglück auf den ersten Blick!»,Stadel,2293,177.889837083,14.0863497601,497.0,75566,0,50 - 99,23.29
+100,2.5,67,1860,8174,Buechenstrasse 16,Stadel b. Niederglatt,«Unsere Wohnung Ihre Zukunft?»,Stadel,2293,177.889837083,14.0863497601,497.0,75566,0,50 - 99,27.76
+100,4.5,139,2290,8174,Chofelstrasse 6,Stadel b. Niederglatt,«GROSSZÜGIG UND HOCHWERTIG»,Stadel,2293,177.889837083,14.0863497601,497.0,75566,0,100 - 500,16.47
+30,3.0,60,1410,8450,Tannenheimweg 3,Andelfingen,«Attraktive Wohnung im Herzen von Andelfingen zu vermieten!»,Andelfingen,2247,333.3827893175,13.3511348465,1551.0,88960,0,50 - 99,23.5
+30,4.0,72,1600,8450,Tannenheimweg 5,Andelfingen,«Attraktive Wohnung im Herzen von Andelfingen zu vermieten!»,Andelfingen,2247,333.3827893175,13.3511348465,1551.0,88960,0,50 - 99,22.22
+62,2.5,65,1930,8302,Reutlenring 32,Kloten,«2 1/2 Zi Wohnung am Waldrand in Kloten/Buchhalden mit G-Parkplatz»,Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,50 - 99,29.69
+62,2.5,63,2030,8302,Lochäckerstrasse 14,Kloten,«Naturverbundenes und modernes Wohnen»,Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,50 - 99,32.22
+62,2.5,59,1610,8302,Balsbergweg 14,Kloten,«Die perfekte Wohnung im beliebten Balsbergquartier»,Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,50 - 99,27.29
+62,3.5,84,2330,8302,Lochäckerstrasse 12,Kloten,«Naturverbundenes und modernes Wohnen»,Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,50 - 99,27.74
+62,3.0,56,1890,8302,Lochäckerstrasse 4,Kloten,"«Frisch renoviert, gute Lage - was will man mehr?»",Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,50 - 99,33.75
+62,1.0,29,1110,8302,Am Balsberg 32,Kloten,«Moderne Wohnung für Singles im Balsbergquartier»,Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,0 - 49,38.28
+62,3.5,76,1613,8302,Hasenbühlweg 9,Kloten,"«3.5 Zimmerwohnung in ruhiger grüner Lage, Nähe Zentrum»",Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,50 - 99,21.22
+62,2.5,77,2240,8302,Säntisstrasse  8,Kloten,«Modernes Wohnen in Kloten»,Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,50 - 99,29.09
+62,3.0,65,1650,8302,Amselweg 13,Kloten,«Suchen Sie eine helle Wohnung an ruhiger Lage?»,Kloten,20130,1044.6289569279,33.4376552409,37403.0,70228,0,50 - 99,25.38
+88,3.5,87,2090,8173,Hänkelbodenstrasse 3,Neerach,«Tolle Wohnung mit Gartensitzplatz!»,Neerach,3175,525.6622516556,13.3228346457,641.0,110502,0,50 - 99,24.02
+88,4.5,119,2410,8173,Hochfelderstrasse 17a,Neerach,"«Attraktive, lichtdurchflutete Gartenwohnung!»",Neerach,3175,525.6622516556,13.3228346457,641.0,110502,0,100 - 500,20.25
+88,3.5,93,2340,8173,Hänkelbodenstrasse 3,Neerach,«Sonnige Gartenwohnung»,Neerach,3175,525.6622516556,13.3228346457,641.0,110502,0,50 - 99,25.16
+159,4.5,121,2835,8707,Kleindorfstrasse 117,Uetikon am See,«Wohnung in familienfreundlicher Siedlung»,Uetikon am See,6201,1792.1965317919,21.2707627802,1480.0,122852,0,100 - 500,23.43
+159,2.5,73,2000,8707,Kleindorfstrasse 58,Uetikon am See,«ZENTRAL UND RUHIG»,Uetikon am See,6201,1792.1965317919,21.2707627802,1480.0,122852,0,50 - 99,27.4
+159,4.0,62,2290,8707,Schönaustrasse 21,Uetikon am See,«Wohnung in Uetikon am See»,Uetikon am See,6201,1792.1965317919,21.2707627802,1480.0,122852,0,50 - 99,36.94
+5,3.5,82,2240,8908,Alte Zwillikerstrasse 7,Hedingen,«Wohnen zwischen Zürich und Zug»,Hedingen,3778,578.5604900459,16.4107993647,1478.0,94456,0,50 - 99,27.32
+5,4.0,85,2015,8908,Zwillikerstrasse 4,Hedingen,«Helle 4-Zimmerwohnung mit Aussicht im Zentrum von Hedingen»,Hedingen,3778,578.5604900459,16.4107993647,1478.0,94456,0,50 - 99,23.71
+51,5.5,128,2400,8184,Püntenweg 2,Bachenbülach,«Wunderschöne Dachwohnung in familienfreundlicher Umgebung»,Bachenbülach,4180,969.837587007,24.7846889952,1848.0,80529,0,100 - 500,18.75
+51,3.0,62,1505,8184,Bächliwis 7,Bachenbülach,«Frisch sanierte Wohnung in Zentrumsnähe»,Bachenbülach,4180,969.837587007,24.7846889952,1848.0,80529,0,50 - 99,24.27
+51,3.5,92,2305,8184,Hinterroos 1,Bachenbülach,«Moderne Attikawohnung mit grosser Terrasse»,Bachenbülach,4180,969.837587007,24.7846889952,1848.0,80529,0,50 - 99,25.05
+51,3.5,85,1665,8184,Dorfstrasse 33,Bachenbülach,«Leben im umgebauten Bauernhaus»,Bachenbülach,4180,969.837587007,24.7846889952,1848.0,80529,0,50 - 99,19.59
+10,4.5,137,2490,8912,Mühlestr. 4C,Obfelden,«Grosszügige Wohnung mit eigenem Waschturm»,Obfelden,5721,758.7533156499,21.4647788848,1252.0,78384,0,100 - 500,18.18
+10,4.5,117,2180,8912,Mühlestr. 4B,Obfelden,"«Ländlich, idylisch und familienfreundlich»",Obfelden,5721,758.7533156499,21.4647788848,1252.0,78384,0,100 - 500,18.63
+10,4.5,100,2540,8912,Wolserstrasse 30a,Obfelden,«4.5 Zimmer Neubauwohnungen»,Obfelden,5721,758.7533156499,21.4647788848,1252.0,78384,0,50 - 99,25.4
+69,4.5,95,2490,8304,Friedenstrasse 15a,Wallisellen,"«zentral, hell und sonnig»",Wallisellen,16841,2623.2087227414,31.0135977674,20325.0,86973,0,50 - 99,26.21
+69,2.5,78,1940,8304,Melchrütistrasse 13,Wallisellen,«Die perfekte Wohnung mit schöner Terrasse»,Wallisellen,16841,2623.2087227414,31.0135977674,20325.0,86973,0,50 - 99,24.87
+69,3.5,109,2920,8304,Alte Winterthurerstrasse 95,Wallisellen,«Charmante 3.5 Zimmerwohnung in Wallisellen»,Wallisellen,16841,2623.2087227414,31.0135977674,20325.0,86973,0,100 - 500,26.79
+69,1.0,35,1350,8304,Friedenstrasse 4a,Wallisellen,«Schöne Wohnung an Zentraler Lage»,Wallisellen,16841,2623.2087227414,31.0135977674,20325.0,86973,0,0 - 49,38.57
+69,4.5,91,2250,8304,Im Langacker 3,Wallisellen,«OHNE MIETKAUTION - Gemütliche Familienwohnung an ruhiger Lage»,Wallisellen,16841,2623.2087227414,31.0135977674,20325.0,86973,0,50 - 99,24.73
+69,4.5,89,2540,8305,In Lampitzäckern 45,Dietlikon,«Grosszügige Wohnung»,Wallisellen,16841,2623.2087227414,31.0135977674,20325.0,86973,0,50 - 99,28.54
+196,3.0,70,1390,8617,Langenmattstrasse,Mönchaltorf,"«Helle, ruhige 3 Zimmer Wohnung in Mönchaltorf mit Aussicht»",Mönchaltorf,3898,513.5704874835,17.1626475115,1360.0,78986,0,50 - 99,19.86
+196,4.0,85,1800,8617,Langenmattstrasse 22,Mönchaltorf,«Grosszügige Wohnung an ruhiger Lage!»,Mönchaltorf,3898,513.5704874835,17.1626475115,1360.0,78986,0,50 - 99,21.18
+3,2.5,64,1533,8906,Am Isenbach 3,Bonstetten,«Ihr neues Zuhause?»,Bonstetten,5572,749.932705249,16.5649676956,1014.0,91002,0,50 - 99,23.95
+3,3.5,85,2080,8906,Chüeweid 7,Bonstetten,«Schöner Wohnen in ländlicher Umgebung»,Bonstetten,5572,749.932705249,16.5649676956,1014.0,91002,0,50 - 99,24.47
+93,3.5,82,1830,8165,Püntstrasse 22,Oberweningen,«Grosszügie sonnige Wohnung»,Oberweningen,1790,362.3481781377,20.3351955307,235.0,86081,0,50 - 99,22.32
+93,3.5,60,1480,8165,Püntstrasse 9,Oberweningen,«Preiswerte Wohnung nähe Bahnhof»,Oberweningen,1790,362.3481781377,20.3351955307,235.0,86081,0,50 - 99,24.67
+173,4.5,160,2499,8335,Bänkliholzweg 13,Hittnau,«GEMÜTLICH UND GROSSZÜGIG»,Hittnau,3664,282.9343629344,7.6692139738,783.0,79838,0,100 - 500,15.62
+136,4.5,92,1881,8135,Fuhrstr. 12,Langnau am Albis,«Modern und grosszügig Wohnen im Grünen!»,Langnau am Albis,7727,891.2341407151,27.7856865536,1533.0,96048,0,50 - 99,20.45
+136,3.5,80,2150,8135,Hintere Grundstrasse 29,Langnau am Albis,«HELLES UND RENOVIERTES SCHMUCKSTÜCK AN RUHIGER UND ZENTRALER LAGE»,Langnau am Albis,7727,891.2341407151,27.7856865536,1533.0,96048,0,50 - 99,26.88
+136,3.5,76,1590,8135,Weidstr. 1,Langnau am Albis,«Erholsames Wohnen nahe Tierpark Langenberg»,Langnau am Albis,7727,891.2341407151,27.7856865536,1533.0,96048,0,50 - 99,20.92
+136,2.0,52,995,8135,Sihltalstrasse 68,Langnau am Albis,«Genossenschaftswohnung»,Langnau am Albis,7727,891.2341407151,27.7856865536,1533.0,96048,0,50 - 99,19.13
+219,4.5,102,2320,8352,Dickbucherstrasse 8,Elsau,«GROSSZÜGIG UND MODERN»,Elsau,3647,451.9206939281,17.3293117631,1052.0,79356,0,100 - 500,22.75
+219,2.5,75,1790,8352,Im Halbiacker 3,Elsau,«CITYNAHES SENIORENPARADIES»,Elsau,3647,451.9206939281,17.3293117631,1052.0,79356,0,50 - 99,23.87
+156,3.5,87,1865,8706,In der Au 50,Meilen,«Zürichsee in Gehdistanz»,Meilen,14335,1200.5862646566,23.1880013952,5910.0,139797,0,50 - 99,21.44
+156,5.5,131,3165,8706,Feldgüetliweg 88,Meilen,«Ihr Wohntraum wird Realität!»,Meilen,14335,1200.5862646566,23.1880013952,5910.0,139797,0,100 - 500,24.16
+156,3.0,69,1570,8706,In der Au 30,Meilen,«Wohnen in Seenähe»,Meilen,14335,1200.5862646566,23.1880013952,5910.0,139797,0,50 - 99,22.75
+63,4.5,105,1854,8426,Moosbrunnenstrasse 7,Lufingen,«CHARAMANT UND HELL»,Lufingen,2417,466.6023166023,19.1146048821,407.0,94684,0,100 - 500,17.66
+297,4.5,100,1851,8494,Wolfsbergstrasse 26,Bauma,«Gemütliche Wohnung mit Blick ins Grüne»,Bauma,4873,165.018625127,15.5345782885,1937.0,67710,0,50 - 99,18.51
+297,4.5,108,1890,8494,Unterdorfstrasse 44a,Bauma,«Naturnahe»,Bauma,4873,165.018625127,15.5345782885,1937.0,67710,0,100 - 500,17.5
+227,4.5,100,2120,8472,Stadlerstrasse 35,Seuzach,«Attraktive Wohnung an ruhiger Lage»,Seuzach,7440,984.126984127,13.3198924731,2641.0,89559,0,50 - 99,21.2
+227,5.5,119,2240,8472,Winterthurerstrasse 5,Seuzach,«Migros vermietet attraktive 5.5-Zimmer-Wohnung»,Seuzach,7440,984.126984127,13.3198924731,2641.0,89559,0,100 - 500,18.82
+227,2.5,56,1405,8472,Im Handschüssel 6,Seuzach,«Zweieinhalbzimmer-Wohnung mit sonnigem Gartensitzplatz zu vermieten»,Seuzach,7440,984.126984127,13.3198924731,2641.0,89559,0,50 - 99,25.09
+227,3.5,73,2050,8472,Strehlgasse 27,Seuzach,«Modernes und zentrales Wohnen»,Seuzach,7440,984.126984127,13.3198924731,2641.0,89559,0,50 - 99,28.08
+248,4.5,143,3333,8142,Wängistr. 5,Uitikon Waldegg,«Sonnige Wohnung mit grosszügiger Terrasse»,Uitikon,4668,1065.7534246575,18.9374464439,1074.0,161425,0,100 - 500,23.31
+197,4.5,105,2220,8603,Chimligasse 5,Schwerzenbach,«4.5-Zimmer-Wohnung im Zentrum Schwerzenbach»,Schwerzenbach,5170,1973.2824427481,27.1373307544,2646.0,79405,0,100 - 500,21.14
+197,3.5,75,1780,8603,Oberholzstrasse 3,Schwerzenbach,«Schöne Wohnung im ruhigen Quartier»,Schwerzenbach,5170,1973.2824427481,27.1373307544,2646.0,79405,0,50 - 99,23.73
+92,4.5,105,2250,8154,Bahnhofstrasse 8,Oberglatt ZH,«GROSSZÜGIG ÜBER ZWEI STOCKWERKE VERTEILT»,Oberglatt,7228,876.1212121212,37.1748754842,1748.0,65147,0,100 - 500,21.43
+92,4.5,92,1960,8154,Hohle Gasse 11,Oberglatt ZH,«Familiäre Wohnung zu einem fairen Mietzins»,Oberglatt,7228,876.1212121212,37.1748754842,1748.0,65147,0,50 - 99,21.3
+92,4.5,92,1830,8154,Allmendstrasse 40,Oberglatt ZH,«Wohnen in Bahnhofsnähe»,Oberglatt,7228,876.1212121212,37.1748754842,1748.0,65147,0,50 - 99,19.89
+89,3.5,59,1680,8172,Grafschaftstrasse 23,Niederglatt ZH,«ZENTRAL UND CHARMANT»,Niederglatt,4993,1386.9444444444,26.0564790707,1398.0,74085,0,50 - 99,28.47
+89,4.5,102,2025,8172,Im Guet 10,Niederglatt ZH,«Grosszügige Wohnung in parkähnlicher Umgebung»,Niederglatt,4993,1386.9444444444,26.0564790707,1398.0,74085,0,100 - 500,19.85
+34,3.5,76,1728,8248,Nüsatzstrasse 27,Uhwiesen,«Moderne helle 3.5 Zimmerwohnung»,Laufen-Uhwiesen,1761,280.4140127389,13.7989778535,472.0,97686,0,50 - 99,22.74
+34,4.5,117,2350,8447,Rheinfallstrasse 7,Dachsen,«Platz für die ganze Familie»,Laufen-Uhwiesen,1761,280.4140127389,13.7989778535,472.0,97686,0,100 - 500,20.09
+72,3.5,65,1770,8185,Spichergasse 10b,Winkel,«Lebensqualität im Herzen von Winkel»,Winkel,4535,559.186189889,14.9503858875,981.0,113301,0,50 - 99,27.23
+72,4.5,97,2310,8185,Spichergasse 3,Winkel,«Hier könnte Ihr Wohntraum in Erfüllung gehen»,Winkel,4535,559.186189889,14.9503858875,981.0,113301,0,50 - 99,23.81
+119,2.0,54,895,8607,Zürichstrasse 63,Aathal-Seegräben,«2-Zimmer-Wohnung 6. OG rechts»,Seegräben,1430,379.3103448276,14.6153846154,579.0,84033,0,50 - 99,16.57
+178,2.5,61,1880,8332,Wilhofstrasse 2,Russikon,«Erstbezug! Brandneu - Eigentumsstandard und sofort bezugsbereit»,Russikon,4393,308.7139845397,13.3166401093,1207.0,91275,0,50 - 99,30.82
+85,4.5,120,2013,8114,Birchwiesstrasse 4,Dänikon ZH,"«Originelle, helle 4.5 Zimmer Dachwohnung»",Dänikon,1861,648.4320557491,26.7598065556,434.0,88072,0,100 - 500,16.77
+85,2.5,56,1490,8114,Alte Landstrasse 3,Dänikon ZH,«Attraktive Wohnung mit Sicht ins sonnige Grüne»,Dänikon,1861,648.4320557491,26.7598065556,434.0,88072,0,50 - 99,26.61
+38,1.5,25,990,8462,Schulstrasse 12,Rheinau,«Frisch saniertes Tiny House Apartment»,Rheinau,1316,147.3684210526,19.6808510638,694.0,72743,0,0 - 49,39.6
+38,4.0,80,1500,8462,Poststrasse 4,Rheinau,«Grosszügige Wohnung im idyllischen Rheinau - Erster Mietzins geschenkt!»,Rheinau,1316,147.3684210526,19.6808510638,694.0,72743,0,50 - 99,18.75
+226,3.5,100,1700,8418,Steiggasse 4,Schlatt ZH,«CHARMANT UND GEMÜTLICH»,Schlatt (ZH),789,87.9598662207,7.9847908745,153.0,71604,0,50 - 99,17.0
+155,3.5,89,2000,8708,Alte Landstrasse 359,Männedorf,«Wohnen an der Zürichsee ruft!»,Männedorf,11359,2381.3417190776,20.3803151686,4984.0,103577,0,50 - 99,22.47
+155,2.5,74,3073,8708,Hasenackerstrasse 41,Männedorf,«cozy home»,Männedorf,11359,2381.3417190776,20.3803151686,4984.0,103577,0,50 - 99,41.53
+155,5.0,140,2190,8708,Bahnhofstrasse 17,Männedorf,«Charmante 5 Zimmerwohnung am Bahnhof Männedorf»,Männedorf,11359,2381.3417190776,20.3803151686,4984.0,103577,0,100 - 500,15.64
+6,9.0,300,4000,8926,Weiermattstrasse 3,Uerzlikon,«BEFRISTETE WOHNUNG MIT GARTEN»,Kappel am Albis,1221,154.1666666667,17.5266175266,319.0,102670,0,100 - 500,13.33
+4,1.5,59,1490,8915,Albisstrasse 31,Hausen am Albis,«Lebensqualität im Zentrum eines Naherholungsgebietes»,Hausen am Albis,3751,275.8088235294,16.0223940283,1021.0,91766,0,50 - 99,25.25
+180,2.5,57,1550,8484,Dorfstrasse 6a,Weisslingen,«Wohnen auf einem einzigartigen Fabrikareal ? Schreiben Sie mit uns Industriegeschichte»,Weisslingen,3364,262.6073380172,10.4340071344,886.0,85673,0,50 - 99,27.19
+195,4.5,100,1980,8118,Twäracherstrasse 3,Pfaffhausen,«Wohnen im Grünen!»,Maur,10468,708.7339201083,21.5036301108,2212.0,116390,0,50 - 99,19.8
+195,2.5,66,2090,8124,Unterdorfstrasse 57,Maur,«2.5-Zimmer-Neubauwohnung im freundlich anmutenden Dorfkern von Maur»,Maur,10468,708.7339201083,21.5036301108,2212.0,116390,0,50 - 99,31.67
+195,3.5,87,2600,8124,Unterdorfstrasse 53,Maur,«3.5 Zimmerwohnung im freundlich anmutenden Dorfkern von Maur»,Maur,10468,708.7339201083,21.5036301108,2212.0,116390,0,50 - 99,29.89
+91,2.5,63,1360,8166,Binzacherweg 1,Niederweningen,«Ihr Wohnglück an ruhiger Lage!»,Niederweningen,3073,448.6131386861,17.0517409697,843.0,86604,0,50 - 99,21.59
+94,3.5,117,2550,8112,Im Geeren 38,Otelfingen,«Gartenwohnung mitten in der Natur»,Otelfingen,2982,417.0629370629,23.138832998,2385.0,83866,0,100 - 500,21.79
+94,5.5,162,2210,8112,Bodenackerstrasse 25,Otelfingen,«Hier finden Sie Ruhe und können sich erholen!»,Otelfingen,2982,417.0629370629,23.138832998,2385.0,83866,0,100 - 500,13.64
+84,3.5,79,1700,8108,Meierhofstrasse 6,Dällikon,«Schöne Wohnung an ruhiger Lage»,Dällikon,4177,926.1640798226,29.3512090017,2752.0,75542,0,50 - 99,21.52
+245,4.5,138,3725,8102,Winkelrainweg 3c,Oberengstringen,«Ruhige und zentrale Wohnlage»,Oberengstringen,6738,3133.9534883721,34.0457108934,1170.0,78450,0,100 - 500,26.99
+251,2.5,64,1770,8951,Brunaustrasse 164,Fahrweid,«Ein glücklicher Wohnungsstart»,Weiningen (ZH),4813,894.6096654275,29.0878869728,2177.0,83683,0,50 - 99,27.66
+251,3.5,80,1800,8104,Zürcherstrasse 10,Weiningen ZH,«Auf zwei Etagen verteilt»,Weiningen (ZH),4813,894.6096654275,29.0878869728,2177.0,83683,0,50 - 99,22.5
+7,4.5,136,2610,8934,Grundstrasse 14,Knonau,«geräumig & weitläufig»,Knonau,2378,367.542503864,18.2926829268,566.0,84568,0,100 - 500,19.19
+7,4.5,85,1710,8934,Eschfeld 5,Knonau,«Wohnung an zentraler Lage zu vermieten»,Knonau,2378,367.542503864,18.2926829268,566.0,84568,0,50 - 99,20.12
+135,3.5,94,2600,8802,Gottlieb-Binder-Strasse 7,Kilchberg ZH,«Moderne Wohnung an idyllischer Lage»,Kilchberg (ZH),8923,3458.527131783,32.8589039561,4127.0,185213,0,50 - 99,27.66
+214,4.5,115,2580,8471,Birkenweg 22,Berg (Dägerlen),«Erstbezug im Eigentumsstandard»,Dägerlen,1037,130.4402515723,7.8109932498,264.0,82639,0,100 - 500,22.43
+59,3.0,70,1640,8182,Brestenbühlstrasse 56,Hochfelden,«Wohnung an ruhiger Wohnlage mit Gartensitzplatz»,Hochfelden,1982,321.2317666126,13.7739656912,391.0,83569,0,50 - 99,23.43

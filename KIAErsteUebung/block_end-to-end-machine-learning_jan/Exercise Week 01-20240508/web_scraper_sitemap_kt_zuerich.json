@@ -1,0 +1,67 @@
+{
+	"_id": "zuerich",
+	"startUrl": [
+		"https://www.immoscout24.ch/de/wohnung/mieten/kanton-zuerich?pn=[1-42]"
+	],
+	"selectors": [
+		{
+			"id": "zuerich",
+			"parentSelectors": [
+				"_root"
+			],
+			"type": "SelectorElement",
+			"selector": "div.MetaBody-iCkzuU",
+			"multiple": true
+		},
+		{
+			"id": "rooms_area_price_raw",
+			"parentSelectors": [
+				"zuerich"
+			],
+			"type": "SelectorText",
+			"selector": "h3",
+			"multiple": false,
+			"regex": ""
+		},
+		{
+			"id": "address_raw",
+			"parentSelectors": [
+				"zuerich"
+			],
+			"type": "SelectorText",
+			"selector": "span.AddressLine__TextStyled-eaUAMD",
+			"multiple": false,
+			"regex": ""
+		},
+		{
+			"id": "price_raw",
+			"parentSelectors": [
+				"zuerich"
+			],
+			"type": "SelectorText",
+			"selector": ".hKJGPR span",
+			"multiple": false,
+			"regex": ""
+		},
+		{
+			"id": "description_raw",
+			"parentSelectors": [
+				"zuerich"
+			],
+			"type": "SelectorText",
+			"selector": "h2",
+			"multiple": false,
+			"regex": ""
+		},
+		{
+			"id": "text_raw",
+			"parentSelectors": [
+				"zuerich"
+			],
+			"type": "SelectorText",
+			"selector": "_parent_",
+			"multiple": false,
+			"regex": ""
+		}
+	]
+}
